@@ -86,9 +86,9 @@ https://589ff3c36f7e8.streamlock.net:443/crespo3/crespo3/playlist.m3u8?PlaylistM
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VINEOXTV.png" group-title="Variado", Neox TV Salta | AR
 https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/el-nueve-canal-9-argentina-100x70.png" group-title="Variado", El Nueve | AR
-https://d2r6nlw8e5ph9i.cloudfront.net/elnueve/smil:elnueve.smil/chunklist_b1200000.m3u8
+https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/HvCzSJQ.png" group-title="Variado", Telefe | AR
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0061
+https://edge-live31-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Telefe-Rosario-en-vivo-Online-100x70.png" group-title="Variado", Telefe Rosario | AR
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LV85.png" group-title="Variado", Telefe Cordoba | AR
@@ -1245,6 +1245,12 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600169ec77e6f70008f
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---TYC.png" group-title="Deportes", TyC Sports | AR
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_10.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-2_m.png" group-title="Deportes", ESPN 2 | AR
+http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
+#EXTINF:-1 tvg-logo="https://packfutbol.com.ar/imagenes/base/fox.png" group-title="Deportes", FOX Sports Premium | AR
+http://edge6-ccast-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
+#EXTINF:-1 tvg-logo="https://tntsports.com.ar/__export/1610632432438/sites/tntsports/arte/apps/twitter_summary_card_20210114.jpg" group-title="Deportes", TNT Sports | AR
+http://edge6-ccast-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIAMSPOR.png" group-title="Deportes", América Sports | AR
 https://canalesyou.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCnx743KuO_16sCMIbEg7Y7Q/live
 #EXTINF:-1 tvg-logo="https://canalshowsport.com.ar/wp-content/uploads/2021/05/logo-SS-HEADER-blue-1.png" group-title="Deportes", Show Sport | AR
