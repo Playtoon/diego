@@ -711,9 +711,13 @@ http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hDoAarw.png" group-title="Infantiles", Aniplus | AR
 https://stmv1.voxhdnet.com/aniplus/aniplus/chunklist_w111746657.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/947_EnerGeek.png" group-title="Infantiles", EnerGeek | CL
-https://5eff35271151c.streamlock.net:1936/8098/8098/playlist.m3u8
+https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/947_EnerGeek.png" group-title="Infantiles", EnerGeek 2 | CL
-https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8
+https://stream.wifispeed.cl:3247/live/energeek2live.m3u8
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/947_EnerGeek.png" group-title="Infantiles", EnerGeek 3 | CL
+https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/947_EnerGeek.png" group-title="Infantiles", EnerGeek 4 | CL
+https://live.tubyte.xyz/LiveApp/streams/531839509402196773557900.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PdprUkZ.png" group-title="Infantiles",Aster Max
 https://stream.projectboom.live/hls/max.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1018_Animax.png" group-title="Infantiles", Animax | HN
