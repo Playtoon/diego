@@ -1172,6 +1172,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600728952b17760007
 
 - ADULTOS -
 
+#EXTINF:-1 tvg-id="Películas y Series" tvg-logo="https://i2.paste.pics/df22d687408ccf03759a5b0ead7d9b72.png" group-title="Adultos", Miami TV | MX
+https://59ec5453559f0.streamlock.net/Latino/smil:WEB/playlist.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="917" tvg-name="Russian" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png" group-title="Adultos", Russian | US
 https://live.adultiptv.net/russian.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="918" tvg-name="Pornstar" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png" group-title="Adultos", Pornstar | US
