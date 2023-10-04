@@ -9,7 +9,7 @@ https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="Noticias", Euronews | ES
 https://ythls.onrender.com/channel/UCyoGb3SMlTlB8CLGVH4c8Rw.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IvOTHIU.png" group-title="Noticias", RTVE24 | ES
-https://rtvelivestreamv3.akamaized.net/24h/24h_main_720.m3u8
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_720.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SeiG5UX.png" group-title="Noticias", RT Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---CNN.png" group-title="Noticias",CNN en Español
@@ -52,12 +52,6 @@ https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
 http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aFUxsAJ.png" group-title="Noticias", NPY | PA
 https://rds3.desdeparaguay.net/npy/npy_int_alta/chunklist_w1321250560.m3u8
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/775_ZN_Noticias.png" group-title="Noticias", ZN Noticias | AR
-http://arcast.com.ar:1935/znoticias/znoticias/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/684_UCI_Noticias_1.jpg" group-title="Noticias", UCI Noticias 1 | PE
-http://168.205.133.38:80/uci1/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/687_Vision_Noticias_Peru.png" group-title="Noticias", VNP | PE
-https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iZ6B9VC.jpg" group-title="Noticias", HiperTV | CL
 http://inliveserver.com:1935/11010/11010/playlist.m3u8?PlaylistM3UCL
 
