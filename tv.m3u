@@ -72,25 +72,25 @@ https://ythls.onrender.com/channel/UC6Qf8b2jcHHilkcr2wpQ9jA.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/HvCzSJQ.png" group-title="Variado", Telefe | AR
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0067
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Telefe-Rosario-en-vivo-Online-100x70.png" group-title="Variado", Telefe Rosario | AR
-http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
+https://telefecanal1.akamaized.net/hls/live/2033413-b/canal5rosario/TOK/hdntl=exp=1696600863~acl=%2f*~data=hdntl~hmac=16c81c45a96def69ed747591119b4e98dc10b1ddd7c0ee70ec3b4ec9bb861e3d/canal5rosario0.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LV85.png" group-title="Variado", Telefe Cordoba | AR
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0161
+https://telefecanal3.akamaized.net/hls/live/2040462/canal8cordoba/TOK/hdntl=exp=1696600959~acl=%2f*~data=hdntl~hmac=da11a763f5d328382c4f4405c259681529ab0ca93e8c51da975c50a11c73bc77/canal8cordoba0.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LS86.png" group-title="Variado", America TV | AR
-https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/43723fca-ac77-419a-b668-b0deec60cf34:SCL/variant/085a2414a253631c90e7ac89ccc9f934/bandwidth/1031000.m3u8
+https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/fceb573b-a8f8-40b0-8edd-ea24c36bcf1f:SCL/variant/39306c6188277619e451f445821f508d/bandwidth/1746000.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LS85.png" group-title="Variado", El Trece | AR
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gWD553w.png" group-title="Variado", América Tucuman | AR
 http://45.6.4.154/americatuc/vivo.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/ciudad-magazine-100x70.png" group-title="Variado", Ciudad Magazine | AR
-https://g5.mc-slo.transport.edge-access.net/a09/ngrp:magazine_live01-100083_all/magazine_live01-100083_720p.m3u8
+https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Canal-8-Catamarca-en-vivo-100x70.png" group-title="Variado", Canal 8 Catamarca | AR
 https://5975e06a1f292.streamlock.net:4443/c8/c8/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/09/Canal-9-Litoral-en-vivo-Online-100x70.png" group-title="Variado", Canal 9 Litoral | AR
 https://stream.arcast.live/ahora/ahora/chunklist_w171668669.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uEZBTlz.png" group-title="Variado", Cinco TV | AR
-https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HPlH24n.png" group-title="Variado", Unifé | AR
-https://dcunilive262-lh.akamaihd.net/i/dclive_1@424582/index_150_av-b.m3u8
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
+#EXTINF:-1 tvg-logo="https://www.unifetv.com/logo.png" group-title="Variado", Unifé | AR
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/f512804f6e6641e38106a47f681cfffa/chunklist_b4628000.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Telediez-en-vivo-Online-100x70.png" group-title="Variado", Tele Diez | AR
 https://videohd.live:19360/8020/8020.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xu8lnw9.png" group-title="Variado", TLX | AR
