@@ -32,26 +32,14 @@ http://ythls.onrender.com/video/IxQ2-6Y4y9w.m3u8
 http://ythls.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HffgQdT.png" group-title="Noticias", CN 24/7 | AR
 https://panel.dattalive.com/6605140/smil:6605140.smil/chunklist_w756124762_b1300000_slen.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6V8sh3v.png" group-title="Noticias", TV Peru Noticias | PE
-https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6V8sh3v.png" group-title="Noticias", TVPe Noticias | PE
+https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index_3.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITELESU.png" group-title="Noticias", TeleSUR | VE
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nBvK2Nd.png" group-title="Noticias", Noticias Caracol | CO
-https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J1dcnRt.png" group-title="Noticias", Atacama Noticias | CL
-https://stmv1.zcastbr.com/atacamanoticias/atacamanoticias/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0SWgwab.jpg" group-title="Noticias", Mega Noticias | CL
-https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/404537231
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/656_TV4_Noticias.png" group-title="Noticias", TV4 Noticias | MX
-https://5f1af61612fb5.streamlock.net/tv4/videotv4_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YkAJDFQ.png" group-title="Noticias",Foro TV | MX
-https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1296_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K4LP6Wk.png" group-title="Noticias", ADN 40 | MX 
-https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/671_MVM_Noticias_Oaxaca.png" group-title="Noticias", MVM Noticias Oaxaca | MX
-http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8?PlaylistM3UCL
+https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index_4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aFUxsAJ.png" group-title="Noticias", NPY | PA
-https://rds3.desdeparaguay.net/npy/npy_int_alta/chunklist_w1321250560.m3u8
+https://rds3tf.desdeparaguay.net/npy/npy_int_alta/chunklist_w2015319787.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iZ6B9VC.jpg" group-title="Noticias", HiperTV | CL
 http://inliveserver.com:1935/11010/11010/playlist.m3u8?PlaylistM3UCL
 
@@ -61,10 +49,6 @@ http://inliveserver.com:1935/11010/11010/playlist.m3u8?PlaylistM3UCL
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICDADAB.png" group-title="Variado", Canal de la Ciudad | AR
 https://ythls.onrender.com/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIMIRADO.png" group-title="Variado", Mirador | AR
-https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/chunklist_w381242656.m3u8
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIGOURME.png" group-title="Variado", El Gourmet | AR
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0018
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aWjBev1.png" group-title="Variado", Argentinisima | AR
 https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---ATB.png" group-title="Variado", ATV Argentina | AR-BO
@@ -80,9 +64,9 @@ https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/chunklist_w206733
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q6BQ5YO.png" group-title="Variado", Canal 7 Jujuy | AR
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w878287635_b1327104.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI7SALTA.png" group-title="Variado", Canal 7 Salta | AR
-https://589ff3c36f7e8.streamlock.net:443/crespo3/crespo3/playlist.m3u8?PlaylistM3UCL
+https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VINEOXTV.png" group-title="Variado", Neox TV Salta | AR
-https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8
+https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/el-nueve-canal-9-argentina-100x70.png" group-title="Variado", El Nueve | AR
 https://ythls.onrender.com/channel/UC6Qf8b2jcHHilkcr2wpQ9jA.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/HvCzSJQ.png" group-title="Variado", Telefe | AR
@@ -1064,7 +1048,7 @@ https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/486_Orbit_TV.png" group-title="Cine y Series", Orbit TV | DO
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png" group-title="Cine y Series", Retro Plus TV | CL
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w1129807833.m3u8
+https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/470_Zee_Mundo.png" group-title="Cine y Series", Zee Mundo | US
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/tracks-v1a1/index-1631541372-now.m3u8
 #EXTINF:-1 tvg-logo="https://www.flixtube.me/latinoamerica/wp-content/uploads/2020/08/logo-flix.png" group-title="Cine y Series", Flixtube | CL
