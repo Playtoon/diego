@@ -161,70 +161,50 @@ https://live.canalnueve.tv/index.m3u8
 http://media.neuquen.gov.ar/rtn/television/chunklist.m3u8?PlaylistM3UCL
 #EXTINF:-175 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-Veo-Santa-Fe-en-vivo-Online-100x70.png" group-title="Variado", Canal Veo | AR
 https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zhs153G.png" group-title="Variado", Canal 2 MDP | AR
-https://streamcasthd.com:19360/canal2mdptv/canal2mdptv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LG6B84e.png" group-title="Variado", T5 Satelital | AR
-http://api.new.livestream.com/accounts/20819504/events/8664197/live.m3u8
+https://tv.t5satelital.com/tvhls/streamcorrientes.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7FaUE9I.png" group-title="Variado", Canal 6 Moreno | AR
-https://5975e06a1f292.streamlock.net:4443/canal6moreno/canal6moreno/playlist.m3u8
+https://stream.arcast.com.ar/canal6moreno/canal6moreno/chunklist_w248371732.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/77fmNDN.png" group-title="Variado", Canal 10 Córdoba | AR
-https://vcp.myplaytv.com/canal10cba/ngrp:canal10cba_all/chunklist_w134080558_b1628000.m3u8
+https://stream.arcast.net:4443/canal10/ngrp:canal10_all/chunklist_w1228139200_b2486272.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3RZjqEW.png" group-title="Variado", Canal 10 | AR
+https://panel.dattalive.com:443/8204/8204/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wrIKPYR.jpg" group-title="Variado", Litus TV | AR
 http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GcaxnHz.jpg" group-title="Variado", TVP Fueguina | AR
-https://vivo.solumedia.com:19360/tvpublicafueguina/tvpublicafueguina.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Asi5eAY.png" group-title="Variado", Canal 50 | AR
-https://coopmorteros.online/canal50/vivo.m3u8
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/765_Canal_4_Telecondor.png" group-title="Variado", Canal 4 Telecondor | AR
-https://59537faa0729a.streamlock.net/canal4telecondor/canal4telecondor/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/768_Milennio_TV.png" group-title="Variado", Milennio TV | AR
-https://59537faa0729a.streamlock.net/milenniotv/milenniotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/305_10_TV.png" group-title="Variado", 10 TV | AR
-http://streamingvideo.com.ar:1935/10tv/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/799_Canal_10_Nortevision.jpg" group-title="Variado", Canal 10 Nortevision | AR
-https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--29QV.png" group-title="Variado", Canal 29 | AR
-http://inliveserver.com:1935/8386/8386/playlist.m3u8?PlaylistM3UCL
+https://online.coopmorteros.coop/canal50/vivo.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/231_Canal_3_Las_Heras.jpg" group-title="Variado", Canal 3 Las Heras | AR
-https://5975e06a1f292.streamlock.net:4443/canal3/canal3/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/779_Canal_4_Eldorado.png" group-title="Variado", Canal 4 El dorado | AR
-https://5975e06a1f292.streamlock.net:4443/canal4eldorado/canal4eldorado/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/800_Canal_4_Tele_BA.jpg" group-title="Variado", Canal 4 Tele BA | AR
-https://inliveserver.com:1936/8550/8550/playlist.m3u8?PlaylistM3UCL
+https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1349_Canal_4_Balcarce.png" group-title="Variado", Canal 4 Balcarce | AR
+https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/778_Canal_5_Pico_Truncado.jpg" group-title="Variado", Canal 5 Pico Truncado | AR
-http://streaming.arcast.com.ar:1935/canal5picotruncado/canal5picotruncado/playlist.m3u8?PlaylistM3UCL
+http://streaming.arcast.com.ar:1935/canal5picotruncado/canal5picotruncado/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/773_Canal_5_Santa_Fe.png" group-title="Variado", Canal 5 Santa Fe | AR
-https://5975e06a1f292.streamlock.net:4443/c5sf/c5sf/playlist.m3u8?PlaylistM3UCL
+https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/233_CANAL_5TV.jpg" group-title="Variado", CANAL 5TV | AR
-https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8?PlaylistM3UCL
+http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1595095176.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/307_Canal_6_Entre_Rios.png" group-title="Variado", Canal 6 Entre Rios | AR
-https://stmv1.questreaming.com/canal6er/canal6er/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/263_Canal_7_Chubut.png" group-title="Variado", Canal 7 Chubut | AR
-http://stream.chubut.gov.ar:1935/C7/vivo.stream/playlist.m3u8?PlaylistM3UCL
+https://stmv1.questreaming.com/canal6er/canal6er/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/234_Canal_7_Santiago_del_Estero.jpg" group-title="Variado", Canal 7 Santiago | AR
-https://5975e06a1f292.streamlock.net:4443/envivo/castv/playlist.m3u8?PlaylistM3UCL
+https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/801_Canal_Provincial.jpg" group-title="Variado", Canal Provincial | AR
 https://streaming.telered.com.ar/provincial/streaming/mystreamProvincialHSMed.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/281_El_10_TV_Salta.png" group-title="Variado", El 10 TV Salta | AR
-https://clientes.videostreaming.ar:19360/openradio2/openradio2.m3u8?PlaylistM3UCL
+https://restreamer.el10tv.com/memfs/9995fb1d-a1a2-4303-b368-5b6e751f8ce5.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/793_Milenium_TV.png" group-title="Variado", Milenium TV | AR
-https://videoairetafi.turadioonline.com.ar:5443/LiveApp/streams/490106569518876444904284.m3u8
+https://stmv5.livecastv.com/milleniumtv/milleniumtv/chunklist_w1436196507.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/213_Play_Television.jpg" group-title="Variado", Play Television | AR
-http://videostream.shockmedia.com.ar:1935/playtelevision/playtelevision/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/839_RTV_Cable.png" group-title="Variado", RTV Cable | AR
-https://streamcasthd.com:19360/rtvcable/rtvcable.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/202_San_Pedro_TV.png" group-title="Variado", San Pedro TV | AR
-https://srv4.zcast.com.br/sptv/sptv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/308_Tele_Estrella.png" group-title="Variado", Tele Estrella | AR
-https://stmvideo2.livecastv.com/telestrella/telestrella/playlist.m3u8?PlaylistM3UCL
+https://vivo.solumedia.com:19360/playtv/playtv.m3u8
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/202_San_Pedro_TV.png" group-title="Variado", SPTV 32 | AR
+https://srv2.zcast.com.br/sptv32/sptv32/chunklist_w1570028729.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/814_TeleNord.jpg" group-title="Variado", TeleNord | AR
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/777_Tribu_TV.jpg" group-title="Variado", Tribu TV | AR
-https://5975e06a1f292.streamlock.net:4443/tributv/tributv/playlist.m3u8?PlaylistM3UCL
+https://stream.arcast.com.ar/tributv/tributv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/788_TV_Dos_Salta.jpg" group-title="Variado", TV Dos Salta | AR
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/184_Television_Celestial.png" group-title="Variado", Television Celestial | AR
-https://stmvideo2.livecastv.com/celestialtv/celestialtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Pk37AN.png" group-title="Variado", UCL | AR
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/846_XTO_TV.png" group-title="Variado", XTO TV | BO
 https://5f5a73adac4ac.streamlock.net/XtoTv/XtoTv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0sYAT58.png" group-title="Variado", Red Pat La Paz | BO
@@ -303,8 +283,6 @@ https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/chunklis
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500000.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/10/Multimedios-TV-Canal-6-en-vivo-Online-100x70.png" group-title="Variado", Canal 6 | MX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3RZjqEW.png" group-title="Variado", Canal 10 | AR
-https://panel.dattalive.com:443/8204/8204/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1SG7AyF.png" group-title="Variado", Hechos TV | EC
 http://37.187.7.106/hechostv/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FF4Oh4i.png" group-title="Variado", wuan+ | EC
@@ -655,8 +633,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f998c1fc5485300079
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=41cb6af1-f699-11ea-abc9-0242ac110002&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k7ig9hB.jpg" group-title="Variado", HispanTV | IR
 https://live.presstv.ir/live/smil:live.smil/chunklist_w1568456535_b644100_slen.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1Pk37AN.png" group-title="Variado", UCL | AR
-https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/693_Best_Cable_TV.png" group-title="Variado", Best Cable TV | PE
 https://live.siete.us/bestcable/bestcable/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/697_Hechicera_TV.png" group-title="Variado", Hechicera TV | PE
