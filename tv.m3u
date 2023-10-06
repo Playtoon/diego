@@ -83,8 +83,6 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 http://45.6.4.154/americatuc/vivo.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/ciudad-magazine-100x70.png" group-title="Variado", Ciudad Magazine | AR
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Canal-8-Catamarca-en-vivo-100x70.png" group-title="Variado", Canal 8 Catamarca | AR
-https://5975e06a1f292.streamlock.net:4443/c8/c8/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/09/Canal-9-Litoral-en-vivo-Online-100x70.png" group-title="Variado", Canal 9 Litoral | AR
 https://stream.arcast.live/ahora/ahora/chunklist_w171668669.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uEZBTlz.png" group-title="Variado", Cinco TV | AR
@@ -93,12 +91,12 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/f512804f6e6641e38106a47f681cfffa/chunklist_b4628000.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Telediez-en-vivo-Online-100x70.png" group-title="Variado", Tele Diez | AR
 https://videohd.live:19360/8020/8020.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xu8lnw9.png" group-title="Variado", TLX | AR
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xu8lnw9.png" group-title="Variado", Telemax | AR
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Telpin-Canal-2-en-vivo-Online-100x70.png" group-title="Variado", Telpin Canal 2 | AR
 https://wowza.telpin.com.ar:1935/telpintv/ttv.stream.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/Canal-9-Multivision-en-vivo-Online-100x70.png" group-title="Variado", Multivision | AR
-http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8?GrupoTopIptv
+http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tkWyB6d.png" group-title="Variado", Santa Fe Canal | AR
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TDC-TV-Santa-Fe-en-vivo-Online-100x70.png" group-title="Variado", tdc TV | AR
@@ -106,7 +104,7 @@ https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8?PlaylistM
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OXST35G.png" group-title="Variado", Canal 5TV | AR
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MeG9SPm.png" group-title="Variado", Canal 10 MdP | AR
-https://g1.mc-hor.transport.edge-access.net/a15/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
+https://g5.vxral-slo.transport.edge-access.net/a13/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Om4mvzj.png" group-title="Variado", Canal 12 Madryn TV | AR
 https://5f700d5b2c46f.streamlock.net:443/madryntv/madryntv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NS5sQUC.png" group-title="Variado", Acequia | AR
@@ -116,55 +114,53 @@ https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-22-en-vivo-Online-100x70.png" group-title="Variado", Canal 22 BS AS | AR
 https://5f700d5b2c46f.streamlock.net/canal22/canal22/chunklist_w387915460.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/CPE-TV-en-vivo-Online-100x70.png" group-title="Variado", CPE TV | AR
-https://stream.arcast.live/cpe/ngrp:cpe_all/chunklist_w433958531_b2723840.m3u8
+https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AzCNVwa.png" group-title="Variado", 9LINK | AR
-http://www.coninfo.net:1935/9linklive/live/playlist.m3u8?PlaylistM3UCL
+http://coninfo.net:1935/9linklive/9linkrtmp1280.stream/chunklist_w1978283965.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/so9MK7Z.png" group-title="Variado", Canal 13 La Rioja | AR
-https://59d52c5a5ce5e.streamlock.net:4443/mp/mp/playlist.m3u8
+https://stream.arcast.host:8443/mp/mp/chunklist_w1483827845.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RUCtN42.png" group-title="Variado", Canal 13 San Luis | AR
-https://5975e06a1f292.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/playlist.m3u8?PlaylistM3UCL
+https://stream.arcast.net:4443/sanluistv/ngrp:sanluistv_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2JKLZHn.png" group-title="Variado", Chaco TV | AR
-https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/playlist.m3u8?PlaylistM3UCL
+https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-xpM6zPNOueI/X1TJk6tTtcI/AAAAAAAA5Tk/yDHQTroLl4kKkYaPT-7umsQVP_uaARPMACK8BGAsYHg/s0/2020-09-06.jpg" group-title="Variado", Ciudad TV | AR
-http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8?PlaylistM3UCL
+http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8Fw4HQ1.png" group-title="Variado", 13 MAX Digital | AR
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PMUZRDT.png" group-title="Variado", CN3 Pinamar | AR
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PMUZRDT.png" group-title="Variado", CN3 Pinamar (Alt.) | AR
-http://intelintec.com.ar:9090/hls/canal3pinamar.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PMUZRDT.png" group-title="Variado", CN3 Pinamar (Alt.) | AR 
+https://intelincloud01.com.ar/hls/cn3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZzS2IDc.png" group-title="Variado", Canal 3 La Pampa | AR
-https://5975e06a1f292.streamlock.net:4443/c3lapampa/ngrp:c3lapampa_all/.m3u8?PlaylistM3UCL
+https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ha46eGP.png" group-title="Variado", Canal 3 Rosario | AR
-https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8?PlaylistM3UCL
+https://stream-03.nyc.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4LsxB0XlZfLnI7Q0gxBVeivXSjQCe_KcoXPT38prGfiX-V)/dm/3/x8aobf1/s/live-4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X0Ee6B5.png" group-title="Variado", BVC | AR
 https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-Esquel-en-vivo-Online-100x70.png" group-title="Variado", Canal 4 Esquel | AR
-https://5975e06a1f292.streamlock.net:4443/canal4esquel/canal4esquel/playlist.m3u8?PlaylistM3UCL
+https://stream.arcast.com.ar/canal4esquel/canal4esquel/chunklist_w143391331.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-Posadas-en-vivo-Online-100x70.png" group-title="Variado", Canal 4 Posadas | AR
-http://iptv.ixfo.com.ar:8081/live/C4POS/playlist.m3u8
+https://iptv.ixfo.com.ar:30443/live-HD/C4POS/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-San-Juan-en-vivo-Online-100x70.png" group-title="Variado", Canal 4 San Juan | AR
 http://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w1610722503.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eWFGnL6.png" group-title="Variado", 9 televida | AR
-https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/playlist.m3u8?PlaylistM3UCL
+https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/televidaar/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vgnhqYa.png" group-title="Variado", Telesol San Juan | AR
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/XFN-TV-en-vivo-Online-100x70.png" group-title="Variado", XFN | AR
-https://5f6e1fe8f2d2e.streamlock.net:443/canalxfn/canalxfn/playlist.m3u8
+https://streamconex.com:1936/canalxfn/canalxfn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/KZO-Entertainment-en-vivo-Online-100x70.png" group-title="Variado", KZO | AR
 https://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U30RDEp.png" group-title="Variado", Net TV | AR
 https://unlimited6-cl.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/Telediario-Television-Satelital-en-vivo-Online-100x70.png" group-title="Variado", td TV | AR
-https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zfu8R8d.png" group-title="Variado", Canal Nueve TV | AR
-https://live.canalnueve.tv/canal.m3u8?PlaylistM3UCL
+https://stmvideo2.livecastv.com/telediario/telediario/chunklist_w1847989805.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/302_AZM_TV.png" group-title="Variado", AZM TV | AR
+https://live.canalnueve.tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dexx1Rx.png" group-title="Variado", RTN | AR
 http://media.neuquen.gov.ar/rtn/television/chunklist.m3u8?PlaylistM3UCL
 #EXTINF:-175 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-Veo-Santa-Fe-en-vivo-Online-100x70.png" group-title="Variado", Canal Veo | AR
 https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Iq6b7qv.png" group-title="Variado", Airevisión | AR
-http://airevision.ddns.net:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zhs153G.png" group-title="Variado", Canal 2 MDP | AR
 https://streamcasthd.com:19360/canal2mdptv/canal2mdptv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LG6B84e.png" group-title="Variado", T5 Satelital | AR
