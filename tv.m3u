@@ -32,6 +32,8 @@ http://ythls.onrender.com/video/IxQ2-6Y4y9w.m3u8
 http://ythls.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HffgQdT.png" group-title="Noticias", CN 24/7 | AR
 https://panel.dattalive.com/6605140/smil:6605140.smil/chunklist_w756124762_b1300000_slen.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICANALE.png" group-title="Noticias", Canal-E | AR
+https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6V8sh3v.png" group-title="Noticias", TVPe Noticias | PE
 https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index_3.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITELESU.png" group-title="Noticias", TeleSUR | VE
