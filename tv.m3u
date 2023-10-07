@@ -1387,8 +1387,10 @@ https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 https://538d0bde28ccf.streamlock.net/live-cont.ar/mirador/.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/304_UTN_TV.png" group-title="Cultural y Educativos", UTN TV | AR
 https://5975e06a1f292.streamlock.net:4443/utntv/utntv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d02366Hc/xamatv.png" group-title="Cultural y Educativos", XAMA TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d02366Hc/xamatv.png" group-title="Cultural y Educativos", XAMA TV | AR
 https://sc1.stweb.tv/unisanjuan/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-UNQTV.png" group-title="Cultural y Educativos", UNQtv | AR
+https://ythls.onrender.com/channel/UCDGRQwIsI-kOCwdUn4UFjSQ.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/248_Uni_Teve.png" group-title="Cultural y Educativos", Uni Teve | AR
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/247_UNIRIO.png" group-title="Cultural y Educativos", UniRio | AR
