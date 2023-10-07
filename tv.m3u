@@ -47,6 +47,8 @@ http://inliveserver.com:1935/11010/11010/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---TVP.png" group-title="Variado", TV Pública | AR
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---TVP.png" group-title="Variado", TV Pública Alt. | AR
+http://ythls.onrender.com/channel/UCs231K71Bnu5295_x0MB5Pg.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICDADAB.png" group-title="Variado", Canal de la Ciudad | AR
 https://ythls.onrender.com/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aWjBev1.png" group-title="Variado", Argentinisima | AR
