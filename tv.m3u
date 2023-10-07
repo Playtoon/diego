@@ -179,6 +179,8 @@ https://panel.dattalive.com:443/8204/8204/playlist.m3u8
 http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Asi5eAY.png" group-title="Variado", Canal 50 | AR
 https://online.coopmorteros.coop/canal50/vivo.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITELMIX.png" group-title="Variado",Telemix - 50 TV | AR
+https://panel.dattalive.com/8068/8068/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/231_Canal_3_Las_Heras.jpg" group-title="Variado", Canal 3 Las Heras | AR
 https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1349_Canal_4_Balcarce.png" group-title="Variado", Canal 4 Balcarce | AR
