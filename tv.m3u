@@ -197,6 +197,8 @@ https://stmv1.questreaming.com/canal6er/canal6er/playlist.m3u8
 https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/801_Canal_Provincial.jpg" group-title="Variado", Canal Provincial | AR
 https://streaming.telered.com.ar/provincial/streaming/mystreamProvincialHSMed.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITJUNIN.png" group-title="Variado", TeleJunín | AR
+https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/281_El_10_TV_Salta.png" group-title="Variado", El 10 TV Salta | AR
 https://restreamer.el10tv.com/memfs/9995fb1d-a1a2-4303-b368-5b6e751f8ce5.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/793_Milenium_TV.png" group-title="Variado", Milenium TV | AR
