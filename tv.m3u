@@ -115,6 +115,8 @@ https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8?PlaylistM
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIFIVETV.png" group-title="Variado", Five TV | AR
 https://panel.dattalive.com/8118/8118/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---5TW.png" group-title="Variado", Telecinco | AR
+https://videohd.live:19360/8016/8016.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--2MDP.png" group-title="Variado", Canal 2 MDP | AR
 https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MeG9SPm.png" group-title="Variado", Canal 10 MdP | AR
