@@ -1515,7 +1515,7 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
 - MUSICALES -
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/286_Quatro_TV.png" group-title="Musicales", Quatro TV | AR
-https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/playlist.m3u8?PlaylistM3UCL
+https://stream.arcast.live/quatro/quatro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tRZ9US5.png" group-title="Musicales", Los Desterrados | CL
 https://5e3483cba9114.streamlock.net/losdesterrados.cl/losdesterrados.cl/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----CM.png" group-title="Musicales", CM | AR
