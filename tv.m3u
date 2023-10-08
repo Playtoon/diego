@@ -1418,7 +1418,7 @@ https://5f700d5b2c46f.streamlock.net:443/uniriotv/uniriotv/playlist.m3u8?Playlis
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dOJX0Cl.png" group-title="Cultural y Educativos", UNLP TV | AR
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1YcnZZV.png" group-title="Cultural y Educativos", Canal U | AR
-https://vcp.myplaytv.com:443/canal10srt/smil:canal10srt.smil/playlist.m3u8?PlaylistM3UCL
+https://stream.arcast.live/canalu/canalu/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIC2COOP.png" group-title="Cultural y Educativos", Canal Coop | AR
 https://panel.dattalive.com:443/8138/8138/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/984_Detras_de_la_Razon.png" group-title="Cultural y Educativos", Detras de la Razon | CL
