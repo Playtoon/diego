@@ -95,6 +95,8 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/f512804f6e6641e38106a47f681cfffa/chunklist_b4628000.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Telediez-en-vivo-Online-100x70.png" group-title="Variado", Tele Diez | AR
 https://videohd.live:19360/8020/8020.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--11MA.png" group-title="Variado", Canal 11 | AR
+https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xu8lnw9.png" group-title="Variado", Telemax | AR
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Telpin-Canal-2-en-vivo-Online-100x70.png" group-title="Variado", Telpin Canal 2 | AR
