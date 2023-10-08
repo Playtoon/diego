@@ -78,7 +78,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0067
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Telefe-Rosario-en-vivo-Online-100x70.png" group-title="Variado", Telefe Rosario | AR
 https://telefecanal1.akamaized.net/hls/live/2033413-b/canal5rosario/TOK/hdntl=exp=1696600863~acl=%2f*~data=hdntl~hmac=16c81c45a96def69ed747591119b4e98dc10b1ddd7c0ee70ec3b4ec9bb861e3d/canal5rosario0.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LV85.png" group-title="Variado", Telefe Cordoba | AR
-https://telefecanal3.akamaized.net/hls/live/2040462/canal8cordoba/TOK/hdntl=exp=1696600959~acl=%2f*~data=hdntl~hmac=da11a763f5d328382c4f4405c259681529ab0ca93e8c51da975c50a11c73bc77/canal8cordoba0.m3u8
+https://telefecanal3.akamaized.net/hls/live/2040462/canal8cordoba/TOK/master.m3u8?hdnea=st=1696802918~exp=1696979318~acl=/hls/live/2040462/canal8cordoba/TOK/*~hmac=3175fda8494f75a634339e0155db2dd0783a3ee898eeacf9ba368d54bfa1aaf6
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LS86.png" group-title="Variado", America TV | AR
 https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/fceb573b-a8f8-40b0-8edd-ea24c36bcf1f:SCL/variant/39306c6188277619e451f445821f508d/bandwidth/1746000.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LS85.png" group-title="Variado", El Trece | AR
