@@ -197,8 +197,6 @@ https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
 http://streaming.arcast.com.ar:1935/canal5picotruncado/canal5picotruncado/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/773_Canal_5_Santa_Fe.png" group-title="Variado", Canal 5 Santa Fe | AR
 https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/233_CANAL_5TV.jpg" group-title="Variado", CANAL 5TV | AR
-http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1595095176.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/307_Canal_6_Entre_Rios.png" group-title="Variado", Canal 6 Entre Rios | AR
 https://stmv1.questreaming.com/canal6er/canal6er/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--6MDP.png" group-title="Variado", Canal 6 MDP | AR
