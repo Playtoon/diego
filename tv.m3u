@@ -216,7 +216,7 @@ https://stmv5.livecastv.com/milleniumtv/milleniumtv/chunklist_w1436196507.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/213_Play_Television.jpg" group-title="Variado", Play Television | AR
 https://vivo.solumedia.com:19360/playtv/playtv.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/202_San_Pedro_TV.png" group-title="Variado", SPTV 32 | AR
-https://srv2.zcast.com.br/sptv32/sptv32/chunklist_w1570028729.m3u8
+https://srv2.zcast.com.br/sptv32/sptv32/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/814_TeleNord.jpg" group-title="Variado", TeleNord | AR
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/777_Tribu_TV.jpg" group-title="Variado", Tribu TV | AR
