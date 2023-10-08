@@ -187,6 +187,8 @@ https://stream.arcast.net:4443/canal10/ngrp:canal10_all/chunklist_w1228139200_b2
 https://panel.dattalive.com:443/8204/8204/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wrIKPYR.jpg" group-title="Variado", Litus TV | AR
 http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICOONET.png" group-title="Variado", Coonet TV | AR
+https://coonet.online:4433/dash/canal1_hd.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Asi5eAY.png" group-title="Variado", Canal 50 | AR
 https://online.coopmorteros.coop/canal50/vivo.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITELMIX.png" group-title="Variado",Telemix - 50 TV | AR
