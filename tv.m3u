@@ -551,8 +551,6 @@ https://pantera1-100gb-cl-movistar.dps.live/bbtv/bbtv.smil/bbtv/livestream2/chun
 https://marine2.miplay.cl/arcatel/iquiquetv720/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OFLWkjb.png" group-title="Variado", Antofagasta TV | CL
 https://unlimited6-cl.dps.live/atv/atv.smil/atv/livestream2/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ES-CHILE.png" group-title="Variado", Holvoet TV
-https://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WvNXxVS.png" group-title="Variado", am Canal | CL
 https://v2.tustreaming.cl/amtv/live1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aPA11ts.png" group-title="Variado", Holvoet TV | CL
