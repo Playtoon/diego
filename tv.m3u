@@ -251,8 +251,10 @@ https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
 https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/778_Canal_5_Pico_Truncado.jpg" group-title="Variado", Canal 5 Pico Truncado | AR
 http://streaming.arcast.com.ar:1935/canal5picotruncado/canal5picotruncado/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/773_Canal_5_Santa_Fe.png" group-title="Variado", Canal 5 Santa Fe | AR
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/773_Canal_5_Santa_Fe.png" group-title="Variado", C5SF | AR
 https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/773_Canal_5_Santa_Fe.png" group-title="Variado", C5SF 2 | AR
+https://stream.arcast.com.ar/c5sf2/c5sf2/chunklist_w1297966787.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/307_Canal_6_Entre_Rios.png" group-title="Variado", Canal 6 Entre Rios | AR
 https://stmv1.questreaming.com/canal6er/canal6er/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--6MDP.png" group-title="Variado", Canal 6 MDP | AR
