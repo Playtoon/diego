@@ -555,6 +555,8 @@ https://unlimited6-cl.dps.live/atv/atv.smil/atv/livestream2/chunks.m3u8
 https://v2.tustreaming.cl/amtv/live1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aPA11ts.png" group-title="Variado", Holvoet TV | CL
 https://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/357_Temuco_TV.jpg" group-title="Variado", Temuco TV | CL
+https://tv.streaming-chile.com:1936/temucotelevision/temucotelevision/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/62DM1qo.png" group-title="Variado", Thema TV | CL
 https://unlimited1-cl-isp.dps.live/thema/thema.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lSHiAWz.png" group-title="Variado", Canal VTV | CL
