@@ -69,6 +69,8 @@ https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/chunklist_w206733
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w878287635_b1327104.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VISILCHA.png" group-title="Variado", Silver Channel Jujuy | AR
 https://panel.dattalive.com/8156/8156/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LW82.png" group-title="Variado", Canal 11 Salta | AR
+https://ythls.onrender.com/channel/UCy-r-BQ5BQRU6rzGS73-WBQ.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI7SALTA.png" group-title="Variado", Canal 7 Salta | AR
 https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LV89.png" group-title="Variado", Canal 7 Mendoza | AR
