@@ -300,9 +300,9 @@ https://d3mghbm9e5zfap.cloudfront.net/Bolivision/2af819d7c8ab1c07658d1575e55800e
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/846_XTO_TV.png" group-title="Variado", XTO TV | BO
 https://5f5a73adac4ac.streamlock.net/XtoTv/XtoTv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0sYAT58.png" group-title="Variado", Red Pat La Paz | BO
-http://192.99.38.174:1935/patbolivia/patlapaz/master.m3u8
+https://w8.redpat.tv:7777/play/120/84483810.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0sYAT58.png" group-title="Variado", Red Pat Santa Cruz | BO
-http://192.99.38.174:1935/patbolivia/patsantacruz/master.m3u8 
+https://w8.redpat.tv:7777/play/110/21867576.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JsqgSmX.png" group-title="Variado", ATB | BO
 http://186.121.206.197/live/daniel/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FbMaclw.png" group-title="Variado", Bolivia TV 7.1 | BO
