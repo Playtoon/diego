@@ -546,7 +546,7 @@ https://livefocamundo.com:8081/arabtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ilCiqga.png" group-title="Variado", Canal 21 | CL
 http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dPUYBfM.png" group-title="Variado", Bio Bio TV | CL
-https://pantera1-100gb-cl-movistar.dps.live/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8
+https://jireh-1-hls-video-ar-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/saLbzvM.png" group-title="Variado", Iquique TV | CL
 https://marine2.miplay.cl/arcatel/iquiquetv720/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OFLWkjb.png" group-title="Variado", Antofagasta TV | CL
