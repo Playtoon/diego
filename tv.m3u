@@ -299,6 +299,8 @@ https://panel.dattalive.com/8102/8102/playlist.m3u8
 https://d3mghbm9e5zfap.cloudfront.net/Bolivision/2af819d7c8ab1c07658d1575e55800e5.sdp/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/846_XTO_TV.png" group-title="Variado", XTO TV | BO
 https://5f5a73adac4ac.streamlock.net/XtoTv/XtoTv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1178_Red_Uno_La_Paz.png" group-title="Variado", Red Uno | BO
+https://stream-02.nyc.dailymotion.com/sec(Ph6IkEIFWyq0CZ9Pa6C_MOcEEX8rv8KPPBqKg5LKMWBE_LiOc5WRXkbbMuNm848b)/dm/3/x8o9b6o/d/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0sYAT58.png" group-title="Variado", Red Pat La Paz | BO
 https://w8.redpat.tv:7777/play/120/84483810.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0sYAT58.png" group-title="Variado", Red Pat Santa Cruz | BO
