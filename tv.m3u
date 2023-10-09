@@ -97,6 +97,8 @@ https://stmvideo2.livecastv.com/canal4nogoya/canal4nogoya/playlist.m3u8
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LV91.png" group-title="Variado", RTR Canal 9 | AR
 https://inliveserver.com:1936/17012/17012/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---9ED.png" group-title="Variado", Canal 9 El Dorado | AR
+https://panel.dattalive.com/8076/8076/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIELONCE.png" group-title="Variado", El Once | AR
 https://ythls.onrender.com/channel/UCWzsoIEZLGLinhYrm66VD4Q.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uEZBTlz.png" group-title="Variado", Cinco TV | AR
