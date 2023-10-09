@@ -967,6 +967,8 @@ https://cloudflare.streamgato.us:3171/live/visionndvlive.m3u8
 http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lv0mnMF.png" group-title="Cine y Series", Onda TV 10 | DO
 http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILIVITV.png" group-title="Cine y Series", LIVING TV | AR
+https://panel.dattalive.com/8166/8166/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-GENTV.png" group-title="Cine y Series", GEN TV | AR
 https://inliveserver.com:1936/14056/14056/chunklist_w760831006.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-NEOTV.png" group-title="Cine y Series", NEO TV Digital | AR
