@@ -173,6 +173,8 @@ https://ythls.onrender.com/channel/UCuJvDPQIaUhvdHiH275WjNA.m3u8
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-xpM6zPNOueI/X1TJk6tTtcI/AAAAAAAA5Tk/yDHQTroLl4kKkYaPT-7umsQVP_uaARPMACK8BGAsYHg/s0/2020-09-06.jpg" group-title="Variado", Ciudad TV | AR
 http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILINKTV.png" group-title="Variado", Link TV | AR
+https://panel.dattalive.com/8128_1/8128_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8Fw4HQ1.png" group-title="Variado", 13 MAX Digital | AR
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PMUZRDT.png" group-title="Variado", CN3 Pinamar | AR
