@@ -581,6 +581,8 @@ https://pantera1-100gb-cl-movistar.dps.live/tvo/tvo.smil/playlist.m3u8
 http://cdn.streamingmedia.cl:1935/live/canalcosta/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Kf74Qw.png" group-title="Variado", Vivo TV | CL
 https://unlimited10-cl.dps.live/vivotv/vivotv.smil/vivotv/livestream2/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ES-CHILE.png" group-title="Variado", Pingüino TV | CL
+https://streaming.elpinguino.com:5391/live/EP.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hoYBepx.png" group-title="Variado", Canal 5 | CL
 https://unlimited10-cl.dps.live/tv5/tv5.smil/tv5/livestream1/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hHNnRIv.png" group-title="Variado", TeleCauquenes | CL
