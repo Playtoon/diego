@@ -163,6 +163,8 @@ https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 https://5f700d5b2c46f.streamlock.net/canal22/canal22/chunklist_w387915460.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/CPE-TV-en-vivo-Online-100x70.png" group-title="Variado", CPE TV | AR
 https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-VERTV.png" group-title="Variado", Ver TV | AR
+https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-VTVTV.png" group-title="Variado", Canal VTV | AR
 https://5f700d5b2c46f.streamlock.net/vtvmendoza/vtvmendoza/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AzCNVwa.png" group-title="Variado", 9LINK | AR
