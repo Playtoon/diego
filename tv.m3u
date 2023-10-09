@@ -137,6 +137,8 @@ https://panel.dattalive.com/8118/8118/playlist.m3u8
 https://videohd.live:19360/8016/8016.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--2MDP.png" group-title="Variado", Canal 2 MDP | AR
 https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---2MI.png" group-title="Variado", Canal 2 Posadas | AR
+https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MeG9SPm.png" group-title="Variado", Canal 10 MdP | AR
 https://g5.vxral-slo.transport.edge-access.net/a13/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Om4mvzj.png" group-title="Variado", Canal 12 Madryn TV | AR
