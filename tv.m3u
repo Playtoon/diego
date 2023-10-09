@@ -225,6 +225,8 @@ https://panel.dattalive.com/8186/8186/playlist.m3u8
 https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/801_Canal_Provincial.jpg" group-title="Variado", Canal Provincial | AR
 https://streaming.telered.com.ar/provincial/streaming/mystreamProvincialHSMed.m3u8
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/239_Fenix.jpg" group-title="Cine y Series", Fenix | AR
+https://stmv5.livecastv.com/fenixrioja/fenixrioja/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITJUNIN.png" group-title="Variado", TeleJunín | AR
 https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VISICARD.png" group-title="Variado", Sicardi TV | AR
@@ -963,8 +965,6 @@ https://59537faa0729a.streamlock.net/plustv/plustv/chunklist_w323482487.m3u8
 https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w1617218595.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dz3UVPn.png" group-title="Cine y Series", Telecreativa | AR
 https://panel.dattalive.com:443/8012/8012/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/239_Fenix.jpg" group-title="Cine y Series", Fenix | AR
-http://stmv4.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://panctv.com.ar/wp-content/uploads/sites/2/2022/08/cropped-logo-panc-tv.png" group-title="Cine y Series", PANC TV | AR
 https://stream.trixserver.com:3088/live/uv096live.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/820_El_Palomar_TV_Tucuman.jpg" group-title="Cine y Series", El Palomar TV Tucuman | AR
