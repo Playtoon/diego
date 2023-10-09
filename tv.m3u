@@ -610,7 +610,7 @@ https://srv2.zcast.com.br/canal5tv/canal5tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnGlajY.png" group-title="Variado", Chiloé Red 25 | CL
 https://v2.tustreaming.cl/chiloered/live1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vm9LuU5.jpg" group-title="Variado", Décima TV | CL
-http://unlimited10-cl.dps.live/decimatv/decimatv.smil/decimatv/livestream1/chunks.m3u8
+https://unlimited6-cl.dps.live/decimatv/decimatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rzv06Mv.png" group-title="Variado", Canal 2 | CL
 http://unlimited1-us.dps.live/tvquellon/tvquellon.smil/tvquellon/livestream1/chunks.m3u8?nimblesessionid=280124764
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JHG0k6v.png" group-title="Variado", Santa María TV | CL
