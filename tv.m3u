@@ -169,6 +169,8 @@ https://stream.arcast.com.ar/canal4esquel/canal4esquel/chunklist_w143391331.m3u8
 https://iptv.ixfo.com.ar:30443/live-HD/C4POS/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-San-Juan-en-vivo-Online-100x70.png" group-title="Variado", Canal 4 San Juan | AR
 http://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w1610722503.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITVOCHO.png" group-title="Variado", Teve Ocho | AR
+https://srvchp.witel.ar:1936/live/teveocho/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eWFGnL6.png" group-title="Variado", 9 televida | AR
 https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/televidaar/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vgnhqYa.png" group-title="Variado", Telesol San Juan | AR
