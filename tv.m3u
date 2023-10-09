@@ -650,7 +650,7 @@ https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AmiR1Hh.png" group-title="Variado", Survision | CL
 https://v2.tustreaming.cl/canalsurvision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mjX7HC0.png" group-title="Variado", Soberania | CL
-https://tls.cdnz.cl/iflexus/live/playlist.m3u8?PlaylistM3UCL
+https://tls-cl.cdnz.cl/radiosoberania/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3sXScBo.png" group-title="Variado", Pichilemu TV | CL
 http://play.streaminghd.cl:80/roberto886/roberto886/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FMFLFIL.png" group-title="Variado", Atacama TV | CL
