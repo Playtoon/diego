@@ -1783,12 +1783,14 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37a
 
 - RELIGIOSOS -
 
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VISANTAM.png" group-title="Religiosos", Santa Maria - 21CTV | AR
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VISANTAM.png" group-title="Religiosos", Santa Maria | AR
 https://smcdn01.trimi.com.ar/live/sm-live/SANTA_MARIA/sa_live_hls/SANTA_MARIA.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/297_TV_Mana.png" group-title="Religiosos", TV Mana | AR
 http://csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/226_Canal_13_Jujuy.png" group-title="Religiosos", Canal 13 Jujuy | AR
 https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---JTV.png" group-title="Religiosos", JTA TV | AR
+https://streaming.jtamendoza.com/hls/test_src.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/351_Restaurando_Vidas_TV.png" group-title="Religiosos", CRV TV | CL
 http://v2.tustreaming.cl/restaurandovidastv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/971_Restaurando_Vidas_TV_Internacional.png", CRV TV Internacional | CL
