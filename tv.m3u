@@ -136,7 +136,7 @@ https://g5.vxral-slo.transport.edge-access.net/a13/ngrp:canal10mdq-100044_all/ca
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Om4mvzj.png" group-title="Variado", Canal 12 Madryn TV | AR
 https://5f700d5b2c46f.streamlock.net:443/madryntv/madryntv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NS5sQUC.png" group-title="Variado", Acequia | AR
-http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8?PlaylistM3UCL
+https://ythls.onrender.com/channel/UCrYFBjFOP_zlFzsif9XDhgw.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LirBvKY.png" group-title="Variado", Canal 20 Villamaria | AR
 https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-22-en-vivo-Online-100x70.png" group-title="Variado", Canal 22 BS AS | AR
