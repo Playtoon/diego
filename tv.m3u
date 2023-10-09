@@ -87,6 +87,8 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 http://45.6.4.154/americatuc/vivo.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/ciudad-magazine-100x70.png" group-title="Variado", Ciudad Magazine | AR
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--4NOG.png" group-title="Variado", Canal 4 Entre Rios | AR
+https://stmvideo2.livecastv.com/canal4nogoya/canal4nogoya/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/09/Canal-9-Litoral-en-vivo-Online-100x70.png" group-title="Variado", Canal 9 Litoral | AR
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIELONCE.png" group-title="Variado", El Once | AR
