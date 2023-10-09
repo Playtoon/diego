@@ -227,6 +227,8 @@ http://media.neuquen.gov.ar/rtn/television/chunklist.m3u8?PlaylistM3UCL
 https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n_720p/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--CTV7.png" group-title="Variado", Corrientes TV | AR
 https://stmvideo2.livecastv.com/canal7/canal7/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-TV2US.png" group-title="Variado", TV2 | AR
+https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---YCC.png" group-title="Variado", Canal 2 San Martin | AR
 https://videohd.live:19360/8094/8094.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LG6B84e.png" group-title="Variado", T5 Satelital | AR
