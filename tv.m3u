@@ -251,8 +251,6 @@ https://restreamer.el10tv.com/memfs/9995fb1d-a1a2-4303-b368-5b6e751f8ce5.m3u8
 https://stmv5.livecastv.com/milleniumtv/milleniumtv/chunklist_w1436196507.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/213_Play_Television.jpg" group-title="Variado", Play Television | AR
 https://vivo.solumedia.com:19360/playtv/playtv.m3u8
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LU92.png" group-title="Variado", TVRionegrina 31 | AR
-https://panel.dattalive.com/8204/8204/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/202_San_Pedro_TV.png" group-title="Variado", SPTV 32 | AR
 https://srv2.zcast.com.br/sptv32/sptv32/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/814_TeleNord.jpg" group-title="Variado", TeleNord | AR
