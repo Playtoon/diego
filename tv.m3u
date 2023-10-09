@@ -109,6 +109,8 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/f512804f6e6641e38106a47f681cfffa/chunklist_b4628000.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--8VDU.png" group-title="Variado", Canal 8 Mendoza | AR
 https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITELE10.png" group-title="Variado", Tele 10 Salta | AR
+https://restreamer.el10tv.com/memfs/9995fb1d-a1a2-4303-b368-5b6e751f8ce5.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRI486.png" group-title="Variado", Canal 8 MDP | AR
 https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Telediez-en-vivo-Online-100x70.png" group-title="Variado", Tele Diez | AR
