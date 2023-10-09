@@ -144,7 +144,7 @@ https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AzCNVwa.png" group-title="Variado", 9LINK | AR
 http://coninfo.net:1935/9linklive/9linkrtmp1280.stream/chunklist_w1978283965.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/so9MK7Z.png" group-title="Variado", Canal 13 La Rioja | AR
-https://stream.arcast.host:8443/mp/mp/chunklist_w1483827845.m3u8
+https://stream.arcast.host:8443/mp/mp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RUCtN42.png" group-title="Variado", Canal 13 San Luis | AR
 https://stream.arcast.net:4443/sanluistv/ngrp:sanluistv_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2JKLZHn.png" group-title="Variado", Chaco TV | AR
