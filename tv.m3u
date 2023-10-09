@@ -101,6 +101,8 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/f512804f6e6641e38106a47f681cfffa/c
 https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Telediez-en-vivo-Online-100x70.png" group-title="Variado", Tele Diez | AR
 https://videohd.live:19360/8020/8020.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LT88.png" group-title="Variado", Lapacho 11 | AR
+https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--11MA.png" group-title="Variado", Canal 11 | AR
 https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LV81.png" group-title="Variado", El Doce | AR
