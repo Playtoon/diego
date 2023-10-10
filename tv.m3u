@@ -1485,6 +1485,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282
 
 - CULTURAL Y EDUCATIVOS -
 
+#EXTINF:-1 tvg-logo="http://cdn.m3u.cl/logo/1445_Teatrix.png" group-title="Cultural y Educativos", Teatrix TV | AR
+https://content.uplynk.com/channel/585ab4fbd865426abd6fbd48fc631b6e.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIENCUEN.png" group-title="Cultural y Educativos", Encuentro | AR
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIVIAJAR.png" group-title="Cultural y Educativos", Viajar | AR
