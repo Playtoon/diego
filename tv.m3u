@@ -670,7 +670,7 @@ http://play.streaminghd.cl:80/roberto886/roberto886/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FMFLFIL.png" group-title="Variado", Atacama TV | CL
 https://v2.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AkbJq31.png" group-title="Variado", Click TV | CL
-http://v2.tustreaming.cl/clicktv/index.m3u8?PlaylistM3UCL
+https://cdn.oneplaychile.cl:1936/Monitoreo_ClickTV/clicktv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6PI6tIZ.png" group-title="Variado", Wapp TV | CL
 https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/113_Cali_TV.jpg" group-title="Variado", Cali TV | CO
