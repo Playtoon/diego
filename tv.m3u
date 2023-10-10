@@ -1659,7 +1659,7 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1ovpsQW.png" group-title="Musicales", On Radio Kpop | CL
 https://tls.cdnz.cl/onradio4/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jKBffVl.png" group-title="Musicales", Melody Channel | CO
-https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/chunklist_b1398304.m3u8
+https://canal.mediaserver.com.co/live/MelodyChannel.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0McbyyA.png" group-title="Musicales", XTV Music | CL
 https://tls.cdnz.cl:443/xtvmusic-media/xtvmusic-media/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kMzBkKg.png" group-title="Musicales", Natural TV | CL
