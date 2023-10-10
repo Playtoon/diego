@@ -520,7 +520,7 @@ http://v3.tustreaming.cl/utvsc/live1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oja3zXk.png" group-title="Variado", Nativa TV | CL
 https://stmv5.voxtvhd.com.br/nativatv/nativatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KYqGZLo.png" group-title="Variado", Tele2 Web | CL
-https://inliveserver.com:1936/11516/11516/playlist.m3u8?PlaylistM3UCL
+https://live.cloudhostservers.com:3029/live/tele2live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ptBqBze.png" group-title="Variado", Estacion TV | CL
 http://unlimited6-cl.dps.live/estaciontv/estaciontv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MAoDriU.png" group-title="Variado", Catatumbo TV | VE
