@@ -780,6 +780,8 @@ https://stream.wowlymedia.com/hls/stream/index.m3u8
 https://stream.wowlymedia.com/hls/kanade/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.paste.pics/d31abf80e663b92c77c7f44cb2b65147.png" group-title="Infantiles", Moni TV | CL
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1421_13_Kids.png" group-title="Infantiles", 13 Kids | CL
+https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vYaJXjV.png" group-title="Infantiles", Magic | AR
 https://magicstream.ddns.net:443/magicstream/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B7odp7O.png" group-title="Infantiles", Retro Mágico | AR
