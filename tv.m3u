@@ -1697,7 +1697,7 @@ https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/849_High_Music.jpg" group-title="Musicales", High Music | CL
 http://96.30.193.226:81/hls/highmusic.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png" group-title="Musicales", Mundo de la Musica TV | CL
-https://593b04c4c5670.streamlock.net:443/8018/8018/playlist.m3u8
+https://tv.streaming-chile.com:1936/mundodelamusicatv/mundodelamusicatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/324_El_Galpon_80.png" group-title="Musicales", El Galpon 80 | CL
 https://streamyes.alsolnet.com/wtmradio/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/856_Hito_Cero_TV.png" group-title="Musicales", Hito Cero TV | CL
