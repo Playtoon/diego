@@ -687,6 +687,12 @@ https://videohls2.cosmovision.tv/hls/sd.m3u8
 https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/322135246
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GMaO3da.png" group-title="Variado", Martí TV | CU
 https://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iE1xhA5.png" group-title="Variado",Telenord 8 | DO
+http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iE1xhA5.png" group-title="Variado",Telenord 10 | DO
+http://newyorkstream.ddns.net:5854/telenord10/telenord10/telenord10.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iE1xhA5.png" group-title="Variado",Telenord 12 | DO
+http://newyorkstream.ddns.net:5854/telenord12/telenord12/telenord12.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cGYcgBL.png" group-title="Variado", TeleCosta | GT 
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TgSeikY.png" group-title="Variado", TEN | HN
@@ -1019,12 +1025,6 @@ http://190.103.183.24:1935/live/MicroHD/playlist.m3u8
 http://190.103.183.24:1935/ReadyTV/ReadyHD/.m3u8
 #EXTINF:-130 tvg-logo="https://i.postimg.cc/y87RrVK3/PHTV.jpg" group-title="Variado", PHTV | DO
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iE1xhA5.png" group-title="Cine y Series",Telenord 8 | DO
-http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iE1xhA5.png" group-title="Cine y Series",Telenord 10 | DO
-http://newyorkstream.ddns.net:5854/telenord10/telenord10/telenord10.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iE1xhA5.png" group-title="Cine y Series",Telenord 12 | DO
-http://newyorkstream.ddns.net:5854/telenord12/telenord12/telenord12.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yC7s8Xm.jpg" group-title="Cine y Series", Vision NDV | DO
 https://cloudflare.streamgato.us:3171/live/visionndvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E2Mpuoz.png" group-title="Cine y Series",HM TV 33 | DO
