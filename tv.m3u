@@ -1081,6 +1081,8 @@ https://s2.tvdatta.com:3457/hybrid/play.m3u8?WebM3UCL
 https://s2.tvdatta.com:3172/hybrid/play.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png" group-title="Cine y Series", Viwix TV Series | CL
 https://s2.tvdatta.com:3402/hybrid/play.m3u8?WebM3UCL
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1427_TV_Provincial.png" group-title="Cine y Series", TV Provincial | CL
+https://v4.tustreaming.cl/limachemovil/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qQx2UPS.png" group-title="Musicales", TV POP | CL
 https://v4.tustreaming.cl/poptv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2upXrAZ.png" group-title="Cine y Series", ZPTV | CL
