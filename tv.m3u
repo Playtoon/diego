@@ -1131,6 +1131,8 @@ https://stream.ads.ottera.tv/cl/2af8cb15-b205-4236-9a91-4648b24dc4cc/1280x720_23
 https://stream.ads.ottera.tv/cl/c3960fb5-dff8-4bff-8497-5e4d837a8e56/1280x720_2300000_4_false.m3u8
 #EXTINF:-1 tvg-logo="http://barvatvplus.com/wp-content/uploads/2020/12/PicsArt_11-24-11.04.44.png" group-title="Cine y Series", Barva TV
 https://cp.sradiotv.com:1936/8076/8076/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/927_Anzoategui_TV.png" group-title="Cine y Series", Anzoategui  TV | VE
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1393_La_Melinkana_TV.png" group-title="Cine y Series", La Melinkana TV | CL
 https://v1.tustreaming.cl/melinkana/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/315_Geovision.jpg" group-title="Cine y Series", Geovision | CL
