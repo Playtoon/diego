@@ -575,6 +575,8 @@ http://unlimited6-cl.dps.live/canal2/canal2.smil/playlist.m3u8?PlaylistM3UCL
 https://panel.tvstream.cl:1936/8038/8038/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PDVNb9i.png" group-title="Variado", Buin Somos Todos | CL
 https://bst.buin.cl/0.m3u8
+#EXTINF:-1 tvg-logo="//cdn.m3u.cl/logo/902_Nublevision.png" group-title="Variado", Ñublevision | CL
+https://cdn.oneplaychile.cl:1936/regionales/nublevision.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/39dqkkP.png" group-title="Variado", Sextavisión | CL
 https://5ff3d9babae13.streamlock.net:443/8020/8020/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fvnO1X9.png" group-title="Variado", TVO | CL
