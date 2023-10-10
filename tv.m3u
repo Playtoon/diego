@@ -1049,6 +1049,12 @@ https://paneltv.online:1936/8186/8186/playlist.m3u8
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1420_Terror_TV.png" group-title="Cine y Series", Terror TV | CL
 https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1506_Chilevisual_Retro.png" group-title="Cine y Series", Chilevisual Retro | CL
+https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1505_Chilevisual_Film.png" group-title="Cine y Series", Chilevisual Film | CL
+https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1504_Chilevisual_Kids.png" group-title="Cine y Series", Chilevisual Kids | CL
+https://stmv5.voxtvhd.com.br/chilevisualkids/chilevisualkids/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png" group-title="Cine y Series", Viwix TV Terror | CL
 https://s2.tvdatta.com:3849/hybrid/play.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png" group-title="Cine y Series", Viwix TV Accion | CL
@@ -1500,7 +1506,9 @@ https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1YcnZZV.png" group-title="Cultural y Educativos", Canal U | AR
 https://stream.arcast.live/canalu/canalu/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIC2COOP.png" group-title="Cultural y Educativos", Canal Coop | AR
-https://panel.dattalive.com:443/8138/8138/playlist.m3u8?PlaylistM3UCL
+https://panel.dattalive.com:443/8138/8138/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1507_Chilevisual_Cultura.png" group-title="Cine y Series", Chilevisual Cultura | CL
+https://stmv5.voxtvhd.com.br/chilevisualcultura/chilevisualcultura/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/984_Detras_de_la_Razon.png" group-title="Cultural y Educativos", Detras de la Razon | CL
 https://videostreaming.cloudserverlatam.com:443/detrazdelarazon/detrazdelarazon/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/999_38TV.png" group-title="Cultural y Educativos", 38TV | CL
