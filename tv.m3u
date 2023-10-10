@@ -547,6 +547,8 @@ https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/393454788
 https://livefocamundo.com:8081/arabtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ilCiqga.png" group-title="Variado", Canal 21 | CL
 https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/174_VP_Television.png" group-title="Variado", VP Televisión | CL
+https://v1.tustreaming.cl:19360/vozdepoder/vozdepoder.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dPUYBfM.png" group-title="Variado", Bio Bio TV | CL
 https://jireh-1-hls-video-ar-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/saLbzvM.png" group-title="Variado", Iquique TV | CL
