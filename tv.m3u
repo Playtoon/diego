@@ -560,7 +560,7 @@ https://tv.streaming-chile.com:1936/temucotelevision/temucotelevision/playlist.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/62DM1qo.png" group-title="Variado", Thema TV | CL
 https://unlimited1-cl-isp.dps.live/thema/thema.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lSHiAWz.png" group-title="Variado", Canal VTV | CL
-https://unlimited10-cl.dps.live/vtv/vtv.smil/playlist.m3u8?PlaylistM3UCL
+https://unlimited2-cl-isp.dps.live/vtv/vtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gRTZucs.png" group-title="Variado", Canal 7 de la Costa | CL
 https://livefocamundo.com:8081/cdlcyerko/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZSpzX1F.png" group-title="Variado", TV Quinta Región | CL
