@@ -816,6 +816,8 @@ http://azxtv.com/hls/stream.m3u8
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/901_Teleanimacion.png" group-title="Infantiles", Teleanimacion | ES
 https://live.admefy.com/live/default/husky_harlequin_ef535.m3u8
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/69_G_Vision.png" group-title="Infantiles", G Vision | CL
+https://oracle.streaminghd.cl/gmistral/gmistral/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFWjIk1.png" group-title="Infantiles", Chinola TV | DO
 https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/76sJQeC.png" group-title="Infantiles", ETC TV | CL
@@ -1573,8 +1575,6 @@ https://unlimited1-cl-movistar.dps.live/uct/uct.smil/playlist.m3u8
 http://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O9hpFKL.png" group-title="Cultural y Educativos", Ekiztv | CL
 https://stmv.panel.mivideo.pro/ekiztv/ekiztv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/69_G_Vision.png" group-title="Cultural y Educativos", G Vision | CL
-https://tls.cdnz.cl/escgabrielamistral/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/798_Cultura_Online.png" group-title="Cultural y Educativos", Cultura Online | CL
 https://v1.tustreaming.cl:19360/culturaonline/culturaonline.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HjBqieO.png" group-title="Cultural y Educativos", Chile Channel | CL
