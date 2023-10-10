@@ -506,7 +506,7 @@ https://vcp.myplaytv.com/tlthd/tlthd/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1317_Terranova_TV.png" group-title="Variado", Terranova  TV | CL
 https://5eaccbab48461.streamlock.net:1936/8254/8254/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ct8y9gm.png" group-title="Variado", ED TV | CL
-https://stmv1.voxhdnet.com/edtvchile/edtvchile/playlist.m3u8
+https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hg253gb.png" group-title="Variado", América TV | CL
 https://stmv1.zcastbr.com/americatvchile/americatvchile/chunklist_w1898871116.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r4btaBc.png" group-title="Variado", Canal 74 | CL
