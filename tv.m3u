@@ -588,7 +588,7 @@ https://streaming.elpinguino.com:5391/live/EP.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hoYBepx.png" group-title="Variado", TV5 Linares | CL
 https://unlimited1-cl-isp.dps.live/tv5/tv5.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hHNnRIv.png" group-title="Variado", TeleCauquenes | CL
-https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/319432052
+https://vdo.panelstreaming.live:3469/live/telecauqueneslive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Grls0tn.png" group-title="Variado", Belevisión | CL
 http://v2.tustreaming.cl/belevision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GdVsiaO.png" group-title="Variado", TVU | CL
