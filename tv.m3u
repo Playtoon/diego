@@ -542,7 +542,7 @@ https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/320935331
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LHn9ofg.png" group-title="Variado", Contivisión | CL
 http://unlimited6-cl.dps.live/contivision/contivision.smil/contivision/livestream1/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nCw8qUd.png" group-title="Variado", Canal 13 | CL
-https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/393454788
+https://m3u.cl/channel/c13.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T1NANrm.png" group-title="Variado", ARAB TV | CL
 https://livefocamundo.com:8081/arabtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ilCiqga.png" group-title="Variado", Canal 21 | CL
