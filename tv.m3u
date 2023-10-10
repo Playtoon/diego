@@ -768,12 +768,12 @@ http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hDoAarw.png" group-title="Infantiles", Aniplus | AR
 https://stmv1.voxhdnet.com/aniplus/aniplus/chunklist_w111746657.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1466_Pandamax_TV.png" group-title="Infantiles", Pandamax TV | CL
+https://stream.wifiexpert.cl/energeek/pandamaxch/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jNtVaZm.png" group-title="Infantiles", EnerGeek | CL
-https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
+https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YiSumNU.png" group-title="Infantiles", EnerGeek Fanpop | CL
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WIFyoqI.png" group-title="Infantiles", EnerGeek Animate | CL
-https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/9177c225a1b026e4b7e4b716f4a9c913.png" group-title="Infantiles", Wowly Channel | CL
 https://stream.wowlymedia.com/hls/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.paste.pics/abc447b0667e0012a060e9a79f10fcb2.png" group-title="Infantiles", Kanade TV | CL
