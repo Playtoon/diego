@@ -565,6 +565,8 @@ https://unlimited1-cl-isp.dps.live/thema/thema.smil/playlist.m3u8
 https://unlimited2-cl-isp.dps.live/vtv/vtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gRTZucs.png" group-title="Variado", Canal 7 de la Costa | CL
 https://livefocamundo.com:8081/cdlcyerko/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1087_Opinionsur_TV.png" group-title="Variado", Opinionsur TV | CL
+https://stmv5.voxtvhd.com.br/opinionsur/opinionsur/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZSpzX1F.png" group-title="Variado", TV Quinta Región | CL
 https://Stmv1.zcastbr.com/danielg/danielg/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZSpzX1F.png" group-title="Variado", TV Quinta Región 2 | CL
