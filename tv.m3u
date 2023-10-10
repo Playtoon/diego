@@ -503,6 +503,8 @@ https://cdnhd.iblups.com/hls/ptv2.m3u8
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/la-tele-tuya-100x70.png" group-title="Variado", TLT | VE
 https://vcp.myplaytv.com/tlthd/tlthd/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1317_Terranova_TV.png" group-title="Variado", Terranova  TV | CL
+https://5eaccbab48461.streamlock.net:1936/8254/8254/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ct8y9gm.png" group-title="Variado", ED TV | CL
 https://stmv1.voxhdnet.com/edtvchile/edtvchile/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hg253gb.png" group-title="Variado", América TV | CL
