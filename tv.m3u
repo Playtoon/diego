@@ -497,6 +497,8 @@ https://api.new.livestream.com/accounts/3789491/events/8003011/live.m3u8
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tcnx3uk.png" group-title="Variado", Señal Colombia | CO
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1157_Veo_TV.png" group-title="Variado", Veo TV | CO
+https://movil.ejeserver.com/live/veotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v9HdU7z.png" group-title="Variado", Panamericana | PE
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fJqimK3.png" group-title="Variado", TV Peru | PE
