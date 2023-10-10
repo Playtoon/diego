@@ -1537,7 +1537,9 @@ https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 https://stream.arcast.live/canalu/canalu/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIC2COOP.png" group-title="Cultural y Educativos", Canal Coop | AR
 https://panel.dattalive.com:443/8138/8138/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1507_Chilevisual_Cultura.png" group-title="Cine y Series", Chilevisual Cultura | CL
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1193_13_Cultura.png" group-title="Cultural y Educativos", 13 Cultura | CL
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1507_Chilevisual_Cultura.png" group-title="Cultural y Educativos", Chilevisual Cultura | CL
 https://stmv5.voxtvhd.com.br/chilevisualcultura/chilevisualcultura/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/984_Detras_de_la_Razon.png" group-title="Cultural y Educativos", Detras de la Razon | CL
 https://videostreaming.cloudserverlatam.com:443/detrazdelarazon/detrazdelarazon/playlist.m3u8?PlaylistM3UCL
