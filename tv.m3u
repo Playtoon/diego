@@ -687,6 +687,8 @@ https://videohls2.cosmovision.tv/hls/sd.m3u8
 https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/322135246
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GMaO3da.png" group-title="Variado", Martí TV | CU
 https://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+#EXTINF:-1 tvg-logo="https://readytelevision.com/wp-content/uploads/2020/09/Readytelevision-small.png" group-title="Variado", Ready | DO
+https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iE1xhA5.png" group-title="Variado",Telenord 8 | DO
 http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iE1xhA5.png" group-title="Variado",Telenord 10 | DO
@@ -1021,8 +1023,6 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mnJNkEE.png" group-title="Cine y Series", Microvisión | DO
 http://190.103.183.24:1935/live/MicroHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://readytelevision.com/wp-content/uploads/2020/09/Readytelevision-small.png" group-title="Cine y Series", Ready | DO
-http://190.103.183.24:1935/ReadyTV/ReadyHD/.m3u8
 #EXTINF:-130 tvg-logo="https://i.postimg.cc/y87RrVK3/PHTV.jpg" group-title="Variado", PHTV | DO
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yC7s8Xm.jpg" group-title="Cine y Series", Vision NDV | DO
