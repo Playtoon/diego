@@ -567,10 +567,6 @@ https://unlimited2-cl-isp.dps.live/vtv/vtv.smil/playlist.m3u8
 https://livefocamundo.com:8081/cdlcyerko/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1087_Opinionsur_TV.png" group-title="Variado", Opinionsur TV | CL
 https://stmv5.voxtvhd.com.br/opinionsur/opinionsur/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZSpzX1F.png" group-title="Variado", TV Quinta Región | CL
-https://Stmv1.zcastbr.com/danielg/danielg/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZSpzX1F.png" group-title="Variado", TV Quinta Región 2 | CL
-https://srv1.zcast.com.br/daniel2525/daniel2525/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tjxjXB4.png" group-title="Variado", Quinta TV | CL
 https://livefocamundo.com:8081/quintatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vcWDMBo.jpg" group-title="Variado", Canal 2 | CL
@@ -1081,6 +1077,8 @@ https://s2.tvdatta.com:3457/hybrid/play.m3u8?WebM3UCL
 https://s2.tvdatta.com:3172/hybrid/play.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png" group-title="Cine y Series", Viwix TV Series | CL
 https://s2.tvdatta.com:3402/hybrid/play.m3u8?WebM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZSpzX1F.png" group-title="Cine y Series", TV Quinta Región | CL
+https://stmv5.voxtvhd.com.br/tvquintaregion/tvquintaregion/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1427_TV_Provincial.png" group-title="Cine y Series", TV Provincial | CL
 https://v4.tustreaming.cl/limachemovil/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qQx2UPS.png" group-title="Musicales", TV POP | CL
