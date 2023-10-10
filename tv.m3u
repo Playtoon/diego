@@ -647,6 +647,8 @@ https://live.tvcontrolcp.com:1936/nortevision/nortevision/playlist.m3u8?Playlist
 http://unlimited6-cl.dps.live/girovisual2/girovisual2.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/75_VoxPopuli_Chile.png" group-title="Variado", VoxPopuli Chile | CL
 https://unlimited6-cl.dps.live/vox/vox.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zkEOJj3.png" group-title="Variado", EX TV | CL
+https://vdochile.com:3774/live/cnrhiawklive.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/333_Plaza_TV.jpg" group-title="Variado", Plaza TV | CL
 https://vdohd.cl:1936/8024/8024/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/78_TVR_Canal_11.png" group-title="Variado", TVR Canal 11 | CL
@@ -1185,8 +1187,6 @@ https://59ce1298bfb98.streamlock.net/cablemas/cablemas/chunklist_w480314177.m3u8
 https://59ce1298bfb98.streamlock.net/emprendetv/emprendetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bzP2hoj.png" group-title="Cine y Series", Retro Play TV | CL
 https://v4.tustreaming.cl/retroplaytv/index.m3u8?WebM3UCL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zkEOJj3.png" group-title="Cine y Series", EX TV | CL
-https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/321_Huasco_TV.jpg" group-title="Cine y Series", Huasco TV | CL
 https://paneltv.online:1936/8024/8024/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/elXndpw.png" group-title="Cine y Series", Spotlight | ES
