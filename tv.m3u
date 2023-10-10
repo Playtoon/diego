@@ -674,7 +674,7 @@ https://v2.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AkbJq31.png" group-title="Variado", Click TV | CL
 https://cdn.oneplaychile.cl:1936/Monitoreo_ClickTV/clicktv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6PI6tIZ.png" group-title="Variado", Wapp TV | CL
-https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3u8
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/wapptv/wapptv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/113_Cali_TV.jpg" group-title="Variado", Cali TV | CO
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/125_Cosmovision.jpg" group-title="Variado", Cosmovisión | CO
