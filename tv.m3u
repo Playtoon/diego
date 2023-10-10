@@ -497,6 +497,12 @@ https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1157_Veo_TV.png" group-title="Variado", Veo TV | CO
 https://movil.ejeserver.com/live/veotv.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1065_ATV.png" group-title="Variado", ATV | PE
+https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1492_ATV_Sur.png" group-title="Variado", ATV Sur | PE
+https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1066_ATV_.png" group-title="Variado", ATV+ | PE
+https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/694_Antares_TV.png" group-title="Variado", Antares TV | PE
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v9HdU7z.png" group-title="Variado", Panamericana | PE
