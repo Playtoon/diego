@@ -1068,9 +1068,9 @@ https://srv3.zcast.com.br/lavozdetucumanhd/lavozdetucumanhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SWxQJ6D.png" group-title="Variado", Colosal TV | CR
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="Cine y Series", Telered | CR
-http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8?PlaylistM3UCL
+https://video20.klm99.com:3558/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/478_Telesistema.png" group-title="Cine y Series", Telesistema | CR
-http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8?PlaylistM3UCL
+http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/e067ea7d04aa3bcd78e8892df03409af.png" group-title="Cine y Series", Visiónplus TV | CL
 http://v2.tustreaming.cl/visionplustv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1022_EGM_Channel.png" group-title="Cine y Series", EGM Channel | CL
