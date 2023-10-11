@@ -808,6 +808,8 @@ http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hDoAarw.png" group-title="Infantiles", Aniplus | AR
 https://stmv1.voxhdnet.com/aniplus/aniplus/chunklist_w111746657.m3u8
+#EXTINF:-1 tvg-logo="https://i.paste.pics/afb90bf11a606a30ee4294c8b32cf9e4.png" group-title="Infantiles", Varied TV | AR
+https://6362ca6f1fc28.streamlock.net:443/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1466_Pandamax_TV.png" group-title="Infantiles", Pandamax TV | CL
 https://stream.wifiexpert.cl/energeek/pandamaxch/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jNtVaZm.png" group-title="Infantiles", EnerGeek | CL
