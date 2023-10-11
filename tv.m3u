@@ -59,8 +59,6 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 http://streaming.arcast.com.ar:1935/atbargentina/atbargentina/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E1xPogK.png" group-title="Variado", Canal 2 Jujuy | AR
 http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Canal-Dos-Perico-en-vivo-Online-100x70.png" group-title="Variado", Canal 2 Perico | AR
-https://streamcasthd.com:1936/tecnovisioncanal2tv/tecnovisioncanal2tv/chunklist_w1032017285.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zEjHUot.png" group-title="Variado", El Cuatro Jujuy HD | AR
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zEjHUot.png" group-title="Variado", El Cuatro Jujuy | AR
@@ -86,9 +84,9 @@ https://telefecanal1.akamaized.net/hls/live/2033413-b/canal5rosario/TOK/master.m
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Telefe-Rosario-en-vivo-Online-100x70.png" group-title="Variado", Telefe Rosario Alt. | AR
 https://ythls.onrender.com/channel/UCPr0HEFKN8wtDIfcPsVB10Q.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LV85.png" group-title="Variado", Telefe Cordoba | AR
-https://telefecanal3.akamaized.net/hls/live/2040462/canal8cordoba/TOK/master.m3u8?hdnea=st=1696802918~exp=1696979318~acl=/hls/live/2040462/canal8cordoba/TOK/*~hmac=3175fda8494f75a634339e0155db2dd0783a3ee898eeacf9ba368d54bfa1aaf6
+https://telefecanal3.akamaized.net/hls/live/2040462/canal8cordoba/TOK/master.m3u8?hdnea=st=1697031001~exp=1697207401~acl=/hls/live/2040462/canal8cordoba/TOK/*~hmac=30ec680b7813e278d02e600079b3b791afb4f0bc3450b63e477e48a25b67daab
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LS86.png" group-title="Variado", America TV | AR
-https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/fceb573b-a8f8-40b0-8edd-ea24c36bcf1f:SCL/variant/39306c6188277619e451f445821f508d/bandwidth/1746000.m3u8
+https://g1.vxral-hor.transport.edge-access.net/a07/ngrp:americahls-100056_all/playlist_720p.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LS85.png" group-title="Variado", El Trece | AR
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LS85.png" group-title="Variado", El Trece Alt. | AR
@@ -120,7 +118,7 @@ https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LV82.png" group-title="Variado", Canal 8 San Juan | AR
 https://ythls.onrender.com/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRK458.png" group-title="Variado", El Ocho Tucuman  | AR
-https://stream-01.nyc.dailymotion.com/sec(L2ctWl-m1CPTv_KKNWGm5BZQkFIDaaQfyOSaho604NVL8ADYXtnnG0HcQ7WZO4vm)/dm/3/x8hvuj5/s/live-2.m3u8
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0368
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Telediez-en-vivo-Online-100x70.png" group-title="Variado", Tele Diez | AR
 https://videohd.live:19360/8020/8020.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LT88.png" group-title="Variado", Lapacho 11 | AR
@@ -195,8 +193,8 @@ https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 https://intelincloud01.com.ar/hls/cn3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZzS2IDc.png" group-title="Variado", Canal 3 La Pampa | AR
 https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ha46eGP.png" group-title="Variado", Canal 3 Rosario | AR
-https://stream-04.nyc.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4Ls_W6oY-OkaZxNwk3srKz-vOZDYEY75dvfaK4Da0SdK4w)/dm/3/x8aobf1/s/live-4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ha46eGP.png" group-title="Variado", El Tres Rosario | AR
+https://stream-01.nyc.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4Ls7UWvwrb93gv0PbMbWr8Lgh5gU7c-iilI4jEmQAC25qP)/dm/3/x8aobf1/s/live-4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X0Ee6B5.png" group-title="Variado", BVC | AR
 https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-Esquel-en-vivo-Online-100x70.png" group-title="Variado", Canal 4 Esquel | AR
