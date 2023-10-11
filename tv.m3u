@@ -363,6 +363,8 @@ http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8?Playli
 https://60417ddeaf0d9.streamlock.net:443/montemorelos/videomontemorelos/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qNrgCwF.png" group-title="Variado", Ticavision | CR
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1097_Canal_8_Catacaos.png" group-title="Variado", Canal 8 Catacaos | PE
+https://live.obslivestream.com/canal8/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1z3t61J.png" group-title="Variado", bhTV | PE
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TyVZ8Js.png" group-title="Variado", mundo + | CO
