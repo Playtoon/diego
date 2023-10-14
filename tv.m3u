@@ -632,24 +632,14 @@ https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 
 - INFANTILES -
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qFDhzBy.png" group-title="Infantiles", Locomotion | AR
-http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qFDhzBy.png" group-title="Infantiles", Locomotion (Opt 2) | AR
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hDoAarw.png" group-title="Infantiles", Aniplus | AR
-https://stmv1.voxhdnet.com/aniplus/aniplus/chunklist_w111746657.m3u8
 #EXTINF:-1 tvg-logo="https://i.paste.pics/afb90bf11a606a30ee4294c8b32cf9e4.png" group-title="Infantiles", Varied TV | AR
 https://6362ca6f1fc28.streamlock.net:443/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1466_Pandamax_TV.png" group-title="Infantiles", Pandamax TV | CL
-https://stream.wifiexpert.cl/energeek/pandamaxch/playlist.m3u8
+https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jNtVaZm.png" group-title="Infantiles", EnerGeek | CL
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YiSumNU.png" group-title="Infantiles", EnerGeek Fanpop | CL
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/9177c225a1b026e4b7e4b716f4a9c913.png" group-title="Infantiles", Wowly Channel | CL
-https://stream.wowlymedia.com/hls/stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.paste.pics/abc447b0667e0012a060e9a79f10fcb2.png" group-title="Infantiles", Kanade TV | CL
-https://stream.wowlymedia.com/hls/kanade/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.paste.pics/d31abf80e663b92c77c7f44cb2b65147.png" group-title="Infantiles", Moni TV | CL
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1421_13_Kids.png" group-title="Infantiles", 13 Kids | CL
@@ -661,39 +651,15 @@ https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qu7ttMx.png" group-title="Infantiles", Tigueritos TV
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCwRSRr.png" group-title="Infantiles", Gogoplay TV
-https://live-de-1.livepush.io/live/emAeNk8mcoqhhYV/tracks-v1a1/mono.m3u8?token=d9ac7156fa6d68ab41262c092349e4f856458931-6fa54d4f38b117eb-1662753597
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PdprUkZ.png" group-title="Infantiles",Aster Max
-https://stream.projectboom.live/hls/max.m3u8
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1018_Animax.png" group-title="Infantiles", Animax | HN
-https://stmv1.voxhdnet.com/erick3041/erick3041/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Bj57fIn.png" group-title="Infantiles",Jetix
-http://jetixjahh20.duckdns.org/hls/stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LQBRAwP.png" group-title="Infantiles",Fox Kids
-http://foxkidsjahh20.duckdns.org/hls/stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/4a39976590ab0bd4fe7a0bbbd4411822.png" group-title="Infantiles", Kid 90 | CL
-https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/488_Anime_Zone_TV.png" group-title="Infantiles", AZ TV | AR
-http://azxtv.com/hls/stream.m3u8
+https://cageu.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="Infantiles", Latino Kids TV | UY
-https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/901_Teleanimacion.png" group-title="Infantiles", Teleanimacion | ES
-https://live.admefy.com/live/default/husky_harlequin_ef535.m3u8
+https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/69_G_Vision.png" group-title="Infantiles", G Vision | CL
 https://oracle.streaminghd.cl/gmistral/gmistral/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFWjIk1.png" group-title="Infantiles", Chinola TV | DO
-https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/76sJQeC.png" group-title="Infantiles", ETC TV | CL
-https://unlimited1-cl-movistar.dps.live/etctv/etctv.smil/playlist.m3u8?WebM3UCL
+https://streaming.ath.cx:1936/chinolatv/chinolatv/chunklist_w1766265238.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1015_Planetatv_Kids.png" group-title="Infantiles", Planeta TV Kids | CL
-https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?WebM3UCL
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/a5c45485f920b3cb2b2e44b70059858a.png" group-title="Infantiles", Taltal TV | CL
-https://ed5ov.live.opencaster.com/xBwCmtEjAibA/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kR6z9AK.jpg" group-title="Infantiles", Planeta Junior TV | ES
-http://deaplaneta-planetakidz-1-es.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kR6z9AK.jpg" group-title="Infantiles", Planeta Junior TV 2 | ES
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609501978c069d00074e0dd2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
-#EXTINF:-1 tvg-logo="https://i.imgur.com/35BpWJh.jpg" group-title="Infantiles", Supertoons TV
-https://kedoo-supertoonstv-2-es.samsung.wurl.com/manifest/playlist.m3u8
+https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kURilHG.png" group-title="Pluto TV", Nick Clásico
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=4432f29e-f694-11ea-b4f5-0242ac110002&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F619PhG.png" group-title="Pluto TV", Nick Junior
@@ -702,10 +668,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a09b16cd4ab0007d24fb8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4cb362-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=afa8239d-eea1-4295-b421-43f3852ddc10&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KjqCyvsv/KIDS.png" group-title="Pluto TV", Kids 2 | ES
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a09b16cd4ab0007d24fb8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4cb362-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=afa8239d-eea1-4295-b421-43f3852ddc10&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L4kvrXZH/actionkids.png" group-title="Pluto TV", Action Kids | ES
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60218c2a32f9c40007c2f7cc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=80606d41-7bcc-11eb-86a4-8df5e66ea440&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d7fc0a51-2f1d-448b-8546-5071095e4b90&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mr3m3g4p/nickjrlatino.png" group-title="Pluto TV", Nick Jr. Latino
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7ff372-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=508efa49-44d3-42fd-8d4d-75f10b4e7cc7&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CKpvff3f/nicklatino.png" group-title="Pluto TV", Nick Latino
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7ff371-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c59413c7-c50b-4407-b45a-db56bbc21724&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqZbtGH6/NICKTEEN.png" group-title="Pluto TV", Nick Teen
@@ -726,8 +688,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b991420009
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60016a60a8e3520008e0d331/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44b7430-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e0a77951-0789-4708-b820-e6bcefa8ee82&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Kenan_and_kel_logo.png" group-title="Pluto TV", Kenan & Kel
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff4bb60-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7bb7672d-32f3-4e6a-9ff0-3e2488d68da1&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://www.degrassi.tv/static/img/logos/degrassi-ng.png" group-title="Pluto TV", Degrassi
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de58ef515635d00091f605d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae20-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4c93798e-e952-447f-a365-6bf6f3f1ab9a&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e7/91/55/e791556f861661901c726936e5095b24.png" group-title="Pluto TV", Big Time Rush | ES
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa7aab66c76000790ee7e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4a1b50-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ae85d69e-9291-4dd1-a2b4-facd888e7465&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Gt0XqS9T/Tokusato.png" group-title="Pluto TV", Tokusato
@@ -738,22 +698,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/608035b8d8705f0007260287/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=216343b0-c804-11eb-9820-5521c83f8ae2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=aab02aec-78bc-44ef-9e5d-e1517268baa5&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VzX9t3v.png" group-title="Pluto TV", Anime Acción
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=9aa7b802-f692-11ea-abc9-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ryHNrrWF/anime_clasico.png" group-title="Pluto TV", Anime Clásico | ES
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6054acc871ec430007f54c7d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=21623240-c804-11eb-9820-5521c83f8ae2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=23edd2b1-bd38-47cd-8e20-edcb1fe6b822&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2jL0tvpF/ONE-PIECE.png" group-title="Pluto TV", ONE PIECE
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79573c14-77dd-11eb-a61c-2f38487b60c0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c4c4d3a3-dc88-49b4-9fda-30049d73b3f2&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1qdPq58.png" group-title="Pluto TV", Naruto
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=00e032f5-f693-11ea-b899-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/1280px-Naruto_logo.svg.png" group-title="Pluto TV", Naruto 2
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60493045fbb5e50007b36f4d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121d440-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=94e07421-ca3c-463f-b308-3fd75bb5431d&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yvShCF9.png" group-title="Pluto TV", Yu-Gi-Oh!
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
-#EXTINF:-1 tvg-logo="https://occ-0-1723-92.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABSUUW3ROmxS7i85S0HroyoJge_Dj2J5JID66HCmAqnzWSNdWcdAsi4Hb5NA0aaF3hkyk4BCmosWYQKICG9dfWX8dBPEDBSRB-_JN.png?r=81f" group-title="Pluto TV", YU-GI-OH! 2
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604930bc28b24d0007e0e171/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121fb50-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=02e68d02-b9a6-4878-9f5d-7d552a4dfa78&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/G/garfield-logo-61FF7BED47-seeklogo.com.png" group-title="Pluto TV", Garfield | ES
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6054ab20a365c70007e4fd44/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=21620b30-c804-11eb-9820-5521c83f8ae2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a6fc64eb-a303-4093-ad51-7eae56c3d7cb&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/the-jh-movie-collection-official/images/1/1a/Lgo_nickelodeon_go_diego_go.png/revision/latest?cb=20200418101143" group-title="Pluto TV", Go Diego Go | ES
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa89d42a0500007363ea3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4a6970-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=792b48f4-9e17-4498-a864-053b445aef6a&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Bob_esponja_logotipo.png" group-title="Pluto TV", Bob Esponja | ES
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4c3e30-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2122e9a3-0ffd-41e4-bb57-eb51058728f6&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Bob_esponja_logotipo.png" group-title="Pluto TV", Bob Esponja 2 | ES
@@ -777,27 +727,19 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/chunklist_w1412188396
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/pequeradio-tv-100x70.png" group-title="Infantiles", Peque TV | ES
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7gMqvsV.png" group-title="Infantiles", El Chavo TV | CL
-https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4A4nhIx.png" group-title="Infantiles", Simpsons TV | CL
-https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ThA7Ss3.png" group-title="Infantiles", Simpsons TV 2 | CL
-https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/341220568
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tMfw42m.png" group-title="Infantiles", Futurama Manía | CO
-https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/322081717
-#EXTINF:-1 tvg-logo="https://www.lacartoons.com/system/series/fondos/000/000/181/original/aaahh_real_monsters.png" group-title="Infantiles", Aaahh!! Monstruos | CL
-https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BADfaU8.png" group-title="Infantiles" ,IPE | PE
-http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uGwFXeM.png" group-title="Infantiles", Educa  TV | EC
-https://cloud7.streamingcnt.net/cnt/educa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Yx5g2pe.png" group-title="Infantiles", Chiquilines | ES
-https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.levelup.com/images/logoOG.png" group-title="Infantiles", Level UP TV
-https://d37s0md1fx4qof.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/LevelUp-Plex/5202b1d3-ec72-47ce-ba98-4a0046647ae2/0.m3u8
+https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CtgFiI_X6UWWjlRzqKp_tjpF3KclGXYJ5tIHxJffjknrOaNkfMgG4-BZVi98ZCNJNAzkfcHGgmJxlPc3KmsNwL8MEyspz2AakL8U6H439PTGoNrb-V3TJ8_ILGu127grq3uHUNDFH493WJU-0KywWaqyO1iT1ueyRyYxTpNoL6-8ZVnPMTUmP7iDDESAxvdgTnOjA1HCGxxnCN1oQ6PvCe41bt25opROijRUt4ZQHDL0BNTSATVngdI6PxA8Ssm40CxIzSR4kXiQh1C-_0203O9_dSS3EyPKetyQ31MR-iPn0iTYo5oHZQKuFuzYjSZcPnOadDMe6OALxmXGle6zugmBORuwyPVdeOmTX3Za0YZRyTtAXuG9MoWmarP4r1AptmlGJe8JyycP24d5zt_e9VfDy0-hTsIKXRwJHDPKtQ0pv_Hke7JJJdj4NcTQa6n9ADTVUDRRREzbLFdFyG2NaUNRgHq_9DScjKMM_mk0SLfSdOwcWSwSJv5XI3sHGTdPieDYfACLVmPQ2Q8nSMnJfKC_1sscK5w8C38QUed9J6BwrDlvH9LO1tIM18l7FhgJsXT9m9wdYksyPu0ebv_Qsp1SqcRa1ktF5rBglUizSSpWOsAMi81-5CUtjTS9H-eDONpQlH4CyBu0njOzawMy1hnWZGgH2b61FayRiApo56gTcfoIq4-OTCz-pqiZm--rPPQpf6sqsmrsNOQTaetXhAm1gR6DmH0cjr6Dxx7WWll8oKbBHxldScKVDmVFdIu0tMvbxHU1igboddljnohwnWkFHmeF3gz8GwupI9Pjc44HDZrV3XNh6W5DHWC4oq6L2Zyy3u5RZNt5oXug3DqJ_iJCm-zmrOFaBBnXTj49K7HonlULSGNurxh0e5mOYBjhBPX2Gibol2rt-OffYDcFAf9ch6A19-sNqCIBjKwLgJBS-sDGDJsIgGnmG89MvRvedVVyV9zQ42DxwOQaDHp7qgh4gHMgpwUdxyABKgl1cy1lYXN0LTIw3wc.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Chespirito.png" group-title="Infantiles", Chespirito TV
+https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CugF5WDBFp12K788Bd75a1xIYSOVkCuPIK6y08-IGOujIHT-95-6YscgpuPX_TAvd7bEh0ehAL5bAozAFw51_iU0PNBHgUz8O_AJ0RB2ow1D9Ibxw7Z2xNdeSf-rP02VjAdfHXun4t5cYbcWlispzYucEBHoYLiPEyLRsJwaaO9ViuZATEwmsxuLHtO-K0FrkB2HKewooP9z5j-4UDeZC6z_PG4qs2lYL3ESEhf7hYQ7H-c-F1xCR3BQoy-ZuWav734ZYgRJJ1CZ55IUXfZtAof2yVpKG1S_4-hUceQnR85NRPNZnPc8wpraJBTA2Hw9RjStoo1dhP8PaKHnZCmsk_-1Dg6NrwMlMXxEun8UncygYbGRCx-yCEkuomBthP1NH1f_RBy4lRJ4SEIi1wB9ATjypdljKqmxUZqKzMOP44Nd1LTC1HkZhT828aiW5naB8rLX1HJ_HfJM_rIbblxN3jSeMPS_3qgwyIHYBJK5LJlKjrqGyHnLTEscvjrN9UbYG82aO8jKubwmSrvFuJEhfy63vHz8uH3PzD3qh1EZWe6Ez-uffAIwExym38olZlsfa0ADXNzDDVtvc5lSn2hmdwwU-8vexI8Z5Y0psT4gOv4E6sVR5d11VblWUF42ct_NpX6_bkdZKOwb3RvoyPdfpgCfijh-pEqMVdhQmpgc-ch8qvY0Sn638u5tgnmxx7mS7EYdsXEwxjG6nvnGYrBoFbcHXeRpSsASCOzoMJqu-rLNEoe_wm1s77httG2mNcUyNm-iS0d9cajgW-9DqdTIsLo3kV1BILk564w1ha-lZfgweH6hlKTbhjhVMbw0C8xZ5I44MOoZshWA9qmE1Z_F2NDmIDcSAO2AhYmuHfWh_BYDwmTGmTQ4JlqWfJivJjeEqKzmHzH2wKLBiH3uqA4AG0N6_KVjeiF0_KCOw9FtlzwLal2yk4uno_zh_NxqWNj40ZvwE8SqutbfOluayCXT1utBQ07iR_APXGtqGgxiOv_gfg23TMVO1cAgASoJdXMtZWFzdC0xMJYG.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Chespirito.png" group-title="Infantiles", Chespirito TV 2
+https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/Cu8FCHEIO2vBDLt3P2u7EL3L7M4qwViKXXusKDuei7ajpUqhxFqgH3-9BlG9gdm74uLMzVsv98dEy5rf6yGEFMrQX_fcrItIqca7Iq39HiADghLe0KUWj9fehknnC9xVt4gm9ySa_LNBja6HiV_pJmFtdgfYmXW_HWJMzHQm5cn3aUGRABik5q5fG_ooufLgN8nuQgghhEj0ORITdsYNHtzn3tt_FriA2ulZKy2QLm6qMJyqHw0Hua3twODge2atMa1ADknqu6Mt9saHx2RJyP7gHbxs2ufga5P7X6_fXXyDIA3qWd68bQpaAmc-I50coRmy_jInnFLK2TRsqxNGHtJHh13skfhL8nCVez8TPxfOXpmXYBQPr0S_ochHaHBwCEutftpc1NQ05CmJPVEz61UCelK974pY13_MLeX5PSQsSV7eP7YC_yY1eHFD6KuP1g0_K2dC6fbiknx3FRLbBgNjurBVRrS65cXGg_s5YBp-U6jQOakkj98W6jUsMhlzRoAv6ra1h37b-nruiVJIq3r6rgz6xg-EGRGc1tdRfnHQMU_vZ2wCmd1jkWHT7dWCAnHIzfm7FChPzM-GiVLSSeD8saeP8V2I3g6cXUsIFlYmrY5nn0N5LpEqFqYI4ffeJeiUHGn3--bMcJt73aWCaec-xv9zlUffjRWXf4HYUTv0eL0EmAREbACaMIxoTHMdgwRDeOeuW9SiE_R5Hku-Fhe234GaCzjaF5BTzN-gzaq72rM-Xgch0LxLfk4w7X0QeHmjc6mYZHC5zGaood2_cjm5G_LcgllcvL0NcKrQviuOpzLqGSsg0T144hoiGxXiL481gTpmvWFHC0z5dgUld2aYwaOQfWY7_GOL_O4IfNvKbBiQkxwANw8SlxCBnFg14PA8kvpJcgMptMfIerReCvp0zkGkCB-A6qblP1uyKd701pMRysI7TrFBAFszb9ofcRWXV31pSSrk3e3tQGDwLlntOlV-R-sl3w7gCaWUEvrG4xoMCIzAA3n7r98oPSGIIAEqCXVzLWVhc3QtMjDfBw.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4A4nhIx.png" group-title="Infantiles", Simpsons TV
+https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CuoFlgHuzf3i1IPoa4wKrknWFJonY4FWqCt1Zsoy7zNfYwrEZU6I5o6nxouSjnYwKJI0f6mJLYsseu4QW8pfJtNGvvhI9OZpDgfLteUCT96wa7N5grFamtMbm1AZF3wOZ5naTmgDrIa15hWWcOhQg51wCe-4aSDU779wQj6TkpaEJcG8VD4T2DmmFzpzoFJFNC_88CfrmA2vyCA8H_a5agMAvUUjfztFkq59xZn80fnUWxNDeYUYAYnsO7VkphK9oMt_DdRKqPBiE_kCdGN8I1ln1RHIXb1nXIks9YqL-x1gCVbDvzmzIHHLEaFDcSF0exfaiT6ybpHVYSzlRyKaBNEtO6u8xUZXXGFYA5lEcgzpdlBKewIaRlajWLfSEevJHrYy8TD2MHjF-ug5Yt8ACDyzKIS-ivZejY5JYpJJ0uUxa-iWErqCttguY4sEQeqKnsB72fkpDNJCWof2P-ftdzrYDXi9i7KqA_89xblw6PCye72tPFXxujeGROtuWAkw4e3bruQhBhJRg2D1WJpZzDX9hImZhyN-sMa8-Oo7bZjUFPEkBZRoelUPcVu1aWH4VbAeG8RxXyU79RNqI-q8MIFpTl-aWU1raUTtTFCeXqSC-4RiwVoNRGX_9QaXxb71AYatgaM8G-wO45mOZGQQZfJ2DhCl_pJbRBIwN_2-nEMmZOmKA3na2mr2G-smTJIlFoQYt7m5zrnLCoIZinv4Txba6fzey5PuCKfezmMXnc2dmA-3SLV_kZuDJXQCEiUDjVEQGtdAZoxLIPlRarKme4-rLIg_CJyw3UMkSTKS3FANX13-N4BiqqKxbo7d6uQ4wznZ0m0S4SL9MPn5vd-SSDm1dG6B8xRpCe0c11uDzGAvH7n1seTeIH0Z9b0VlcWJH6qcWnjyJh-0pyv5A06zCykx4Pq6-xSGnaHyosjX7jdPiuBaLdYwXR9VOOyUU_s7XBwHuXJ-5p0nffETcu5oGW1tfVD8BNdwE4jthXQaDDKaNr7QuFf_rPTMMCABKgl1cy13ZXN0LTIw4Ac.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ThA7Ss3.png" group-title="Infantiles", Simpsons TV 2
+https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvAFmdlCoHtKRZdGwEH-Ldn4PTDDyu3JwWm2ASrTw18HypCsM1q8tVOfdJnBYgWryHJ9jhlvRcSQ5Fpsiee7DIpIvurZCpvRDJbBHFS6TkIPhwDb-9gh8_wYKnBSdM3Yg6JWbYjRm8SlohI7tDHTYz-bpIW5DSU4BnnrgLwPHchOPJ_ImPhJlfhFQReG9a3Kv2OCTs3JGULGgOYSdqU_ea9cjiyXmJEIxtMJ77tjqoSJRhPXIfnzoIos0MUatRIW1uPV9HX42Sla_HqzoRpYuDmx_HFi0C1LE7ZOc4TZSLQSSpGzPY4elWcpR3YMQp4aIDwX3TN4FZc_fMC6WX5MZDCVoqXl6QMiqA4ffamiaDADaobi7TI3T48TnSTKVhLtG8510Q_B-tKtHGYpnFxFdq2mvKGC7lvB8oay8yEtdaTPoY4Yk-7aBqCxqbRcmhyWp7irO3yHRHPSZbHT41ydoMi3QuEhWkWucyJc3xchyWrCGrMGsLk2M4G65fg7_r35qPDIytBJ3KA89XWLWf5BnQ_OqFs7S4xFuydfacYIHHqREtqDJlIWXRAhPgNLVZLL7fgowCTDrEGImfKKIdvm2ybWw93UPKUpGcYKFKVb3WRn6NmXrAaohy7euhgF-YA8KqTTrhYstblWgBVwYTX4iWxS-1NAdWbBSGt7kRcXvsU1iatOyObU4caVtf8ySO6xxzqJyJ4GoBzUFJSERluV_0FW_rMNTbD19DeTRSNddfnW4YCO-NUZPlc2umqmIoXeD06OKHC_KJjtpx9p0NH6Zhh-rLwpeNRceg1kGij6hZJoH2ENaScu7ZP3kTq4Woc4CERT9mYIQggPw4T_Ne7uF6P82V_zdY0guP0J0Q5Wbk_MvwbDp6MOfjiNLm6jc4CvlUReICeYYX8DNwDJSHPcRzzoGWdbKd_URcjqm2KO2iPydhLlc2uB-XVsTYh8AWCBHuICAuwqU6l6-Xd-uRnWp3f185NBHxTuN1tOl7ysI6imxGsaDED06U9npA_NlRoheiABKgl1cy1lYXN0LTIw3wc.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tMfw42m.png" group-title="Infantiles", Futurama TV
+https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CugFbsNjbcZGLMWZKgj5Ck6J4buZv96aprw7ytkL4Bt_Sa4O0MEQQRke6ocpy-oLWR7xHDmTI67cxmd3-Cx-N0xbLLlGCGBZw46258WoEOGDz7TbZP5qH63aInzj9cN5xHli3UYglq-XDOcujCaXQLmBj2fdGH7INvy0cRg5QhggsXdS4FZQmN9H8hnlSo-rx_YXQ40_UchPcb9LE1lFwxDs4AivLzGrfKQnbv_p231_yBJII-XuXJ2KH-nVI2YrdWvZ3rPlmtGzN0NU-eCQ4ljyJDBeU3R6qnuMD3o7nHAZRhSD9AuL90vMIATJXu25u4kHrem7_bbklUkpDS77ovG2sRP__IVBcpw_FHRMlhTnhMAX-S9z2vC4q48gNimhwjOAAieKrjf7GHFRc8L-ZcZE6ObPZwNm-_1Saj6jK7Q9jjYmsuIThHTQ0w8mcrMhBzxHgtKALAK17xdCa1uq64XzTHr85B3pW6PPSlkMPNRwigMqIVuSuz9fa3QxDivI5TLAUTVvfELkrabTBiey1MHON0IOgbNsEXnXjIOEya_DMuB9g74B6JjC8SjS8ZT_qleejA93QWGwNGHrPTixTFf6ApVyFSraWHGiZxbCTyhZhO7FbjnhgE4mpeynZhcp-s19s8GCwgj_BoPokNkkWLuiYvJKS16Xe1QdDzQ9hnUMxmvdamOiUig04MftDx1z1lsp7421Fa_GMGW1rN-TM_IzBs8DXTX1kyw_GuBYwbIhMXr3XX7D1YVGMNgRvO8nHITzyDlldimsvE-BuNt_tgSP6W1RZzhNxXqY-Pm185qxbdxkmmkcfVUtlr9Z0wkCVOEfnr04DcHPdM9VKoQIaEK2dHr_71hLrdqqdeWzO3RG1gn79XuN_iXdJLfFzJdHQaFG0XuwrilaGl_Pc-wJ44_oVBOj87OSYW7Z6mnPaqYSiUe4QZGhHAxIAT_tGStlcsYQcx0HEEQ3e_z5QpHSDXIskSF8jYqCjorMGgzcPl39eJI5qsvY390gASoJdXMtZWFzdC0xMJYG.m3u8
 #EXTINF:-1 tvg-logo="https://www.esrevolution.com/images/Logo2021_ESR_2Website1.png" group-title="Pluto TV", ESR 24/7
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fb554d87a0c480007c8dada/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79573c11-77dd-11eb-a61c-2f38487b60c0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8c67fb7c-fcd9-41e1-baba-8fefef855e17&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://www.esrevolution.com/images/Logo2021_ESR_2Website1.png" group-title="Infantiles", ESR 24/7 (Inglés)
-https://esrevolution-sinclair.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/Ign-logo-white.png" group-title="Pluto TV", IGN (Inglés)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5f613286e48904fb2677/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c72d411-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fd3bdfcd-3e09-44d5-89ca-daef1432299e&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/Ign-logo-white.png" group-title="Pluto TV", IGN 2 (Inglés)
@@ -857,6 +799,8 @@ https://stream.ads.ottera.tv/cl/038f9868-6789-481e-a4f0-52e18517f777/1280x720_30
 https://stream.ads.ottera.tv/cl/7e9e07c4-33ee-4703-a265-2ea89fa98e0f/1280x720_3071200_0_f.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RhmStg9H/run_time.png" group-title="Cine y Series", Run:time 3
 https://stream.ads.ottera.tv/cl/7e9e07c4-33ee-4703-a265-2ea89fa98e0f/1280x720_3071200_0_f.m3u8
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2023/03/FreeTV-Logo.png" group-title="Cine y Series", Free TV | ES
+https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.m3u.cl/logo/1032_13_Teleseries.png" group-title="Cine y Series", 13 Teleseries | CL
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.m3u.cl/logo/1447_13_Humor.png" group-title="Cine y Series", 13 Humor | CL
