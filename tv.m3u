@@ -1346,20 +1346,14 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/286_Quatro_TV.png" group-title="Musicales", Quatro TV | AR
 https://stream.arcast.live/quatro/quatro/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tRZ9US5.png" group-title="Musicales", Los Desterrados | CL
-https://5e3483cba9114.streamlock.net/losdesterrados.cl/losdesterrados.cl/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----CM.png" group-title="Musicales", CM | AR
-http://g3.vxral-slo.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MxFTN6J.png" group-title="Musicales", La Popular TV | CL
 https://5d1ca66d2d698.streamlock.net:1936/8076/8076/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r4btaBc.png" group-title="Musicales", 74 TeVe 2 | CL
-https://srv3.zcast.com.br/canal74/canal74/playlist.m3u8?PlaylistM3UCL
+https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tGIBw9G.png" group-title="Musicales", 88 Stereo | CR
 http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mW5CR9k.png" group-title="Musicales", m2o TV | IT
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1ovpsQW.png" group-title="Musicales", On Radio Kpop | CL
-https://tls.cdnz.cl/onradio4/live/playlist.m3u8?PlaylistM3UCL
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jKBffVl.png" group-title="Musicales", Melody Channel | CO
 https://canal.mediaserver.com.co/live/MelodyChannel.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0McbyyA.png" group-title="Musicales", XTV Music | CL
@@ -1367,7 +1361,7 @@ https://tls.cdnz.cl:443/xtvmusic-media/xtvmusic-media/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kMzBkKg.png" group-title="Musicales", Natural TV | CL
 http://srv1.zcast.com.br/miguel/miguel/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/31_Portal_FoxMix.png" group-title="Musicales", Portal FoxMix | CL
-http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
+https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s22MVpe.png" group-title="Musicales", Canal 38 | CR
 https://rtmp.info/canal38/envivo/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UQqkcJX.png" group-title="Musicales", Retro music TV | CZ
@@ -1381,7 +1375,7 @@ http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist.m3u8?PlaylistM
 #EXTINF:-1 tvg-logo="https://www.diario26.com/images/musictop_logo.png?3" group-title="Musicales", Music Top | AR
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w288048170_b2028000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="Musicales", Retro Plus Music | CL
-https://unlimited2-cl-isp.dps.live/vtv/vtv.smil/playlist.m3u8
+https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="Musicales", Retro Plus Music 2 | CL
 https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pFpolwD.png" group-title="Musicales", Teleritmo | MX 
