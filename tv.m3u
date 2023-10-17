@@ -1356,14 +1356,8 @@ http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jKBffVl.png" group-title="Musicales", Melody Channel | CO
 https://canal.mediaserver.com.co/live/MelodyChannel.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0McbyyA.png" group-title="Musicales", XTV Music | CL
-https://tls.cdnz.cl:443/xtvmusic-media/xtvmusic-media/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kMzBkKg.png" group-title="Musicales", Natural TV | CL
-http://srv1.zcast.com.br/miguel/miguel/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/31_Portal_FoxMix.png" group-title="Musicales", Portal FoxMix | CL
-https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s22MVpe.png" group-title="Musicales", Canal 38 | CR
-https://rtmp.info/canal38/envivo/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/3cc1950b0f0c4ad15752bd5b6646fdf6.png" group-title="Musicales", 38TV | CR
+https://v2.tustreaming.cl:19360/38tv/38tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UQqkcJX.png" group-title="Musicales", Retro music TV | CZ
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UQqkcJX.png" group-title="Musicales", Retro music TV HD | CZ
@@ -1379,109 +1373,53 @@ https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="Musicales", Retro Plus Music 2 | CL
 https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pFpolwD.png" group-title="Musicales", Teleritmo | MX 
-http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8?www.tecnotv.info?
+https://us-b4-p-e-mg17.cdn.mdstrm.com/live-stream/57b4dc126338448314449d0c/publish/media_2000.m3u8?aid=579bd29dc99290cf08362c3b&uid=EnYginwD7LYYyw2SzbZessThyVT6KbbP&sid=wJR6n3LMRBrSAOhM3OzmzsIR7Dhof3wU&pid=haETrdKrdTJJ6TfXTq7R50wK2cxs6gcE&ref=https%3A%2F%2Fwww.multimedios.com%2F&without_cookies=false&listenerid=&dnt=true&es=us-b4-p-e-mg17.cdn.mdstrm.com&ote=1697650050369&ot=mlXDXQDxoPW6aye8kba0Pg&proto=https&pz=us
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fEWQwu7.png" group-title="Musicales" ,Top Latino TV | PE
-https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/chunklist_w1568392538.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lnE1QvY.png" group-title="Musicales" ,Eurolatina TV | ES
-https://cdn01.yowi.tv/ZM1I2N6F9E/live-1600.m3u8
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dittytv.com/wp-content/uploads/2021/01/DittyTV.Logo_.Main_.2021.jpg" group-title="Musicales", Ditty TV | US
-https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
+https://0ba805a2403b4660bbb05c0a210ebbdc.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_DittyTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://myspirit.tv/wp-content/uploads/2017/01/SpiritLogoFull244x86.png" group-title="Musicales", Spirit TV | US
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1_Rewind_TV.png" group-title="Musicales", Rewind TV | CL
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/849_High_Music.jpg" group-title="Musicales", High Music | CL
-http://96.30.193.226:81/hls/highmusic.m3u8?PlaylistM3UCL
+https://tv.clientetvstudio.net:3382/live/costatv2live.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png" group-title="Musicales", Mundo de la Musica TV | CL
 https://tv.streaming-chile.com:1936/mundodelamusicatv/mundodelamusicatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/324_El_Galpon_80.png" group-title="Musicales", El Galpon 80 | CL
-https://streamyes.alsolnet.com/wtmradio/live/playlist.m3u8?PlaylistM3UCL
+https://stmv5.voxtvhd.com.br/ferchile/ferchile/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/856_Hito_Cero_TV.png" group-title="Musicales", Hito Cero TV | CL
 https://streaming10.zglobalhost.com:1936/8018/8018/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/785_Re7.png" group-title="Musicales", Re7 | CL
-https://vdo.mivideo.pro:3446/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/6_Mix_24_7_VdjMix_Retro.png", Mix 24-7 Retro | CL
-http://159.69.56.148:25461/live/M3UCanales4/4fr9vich/1.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/9_Mix_24_7_Retro.png", Mix 24-7 Retro 2 | CL
-http://159.69.56.148:25461/live/M3UCanales4/4fr9vich/4.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/10_Mix_24_7_Global_Hits.png", Mix 24-7 Global Hits | CL
-http://159.69.56.148:25461/live/M3UCanales4/4fr9vich/5.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/7_Mix_24_7_Top_100.png", Mix 24-7 Top 100 | CL
-http://159.69.56.148:25461/live/M3UCanales4/4fr9vich/2.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/8_Mix_24_7_Tropical.png", Mix 24-7 Tropical | CL
-http://159.69.56.148:25461/live/M3UCanales4/4fr9vich/3.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/469_Mix_24_7_Conciertos.png", Mix 24-7 Conciertos | CL
-http://159.69.56.148:25461/live/M3UCanales4/4fr9vich/7.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/11_Mix_24_7_VdjMix_Pop.png", Mix 24-7 Pop | CL
-http://159.69.56.148:25461/live/M3UCanales4/4fr9vich/6.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/468_Mix_24_7_Puro_Rock.png" group-title="Musicales", Mix 24-7 Puro Rock | CL
-http://159.69.56.148:25461/live/M3UCanales4/4fr9vich/25.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/26_RCKTV.png" group-title="Musicales", RCK Studio | CL
-https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/2_Zapping_Music.png" group-title="Musicales", Zapping Music | CL
-https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/25_TuTv_Quillota.png" group-title="Musicales", Tu TV Music | CL
-https://tvstreaming.cl:1936/tutv/tutv/playlist.m3u8?PlaylistM3UCL
+https://cp.panelchs.com:1936/etpxbvxrcp/etpxbvxrcp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/13_Ruidos_TV.png" group-title="Musicales", Ruidos TV | CL
-https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8?PlaylistM3UCL
+https://panel.tvstream.cl:1936/8022/8022/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/22_Video_Tour_Channel.png" group-title="Musicales", Video Tour Channel | CR
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/466_Wham_TV.png" group-title="Musicales", Wham TV | BR
-https://srv5.zcast.com.br/andre4369/andre4369/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/32_Alegria_TV.png" group-title="Musicales", Alegria TV | CL
-https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/387_Zona_Play_Radio.jpg" group-title="Musicales", Zona Play Radio | CL
-https://srv1.zcast.com.br/zonaplay/zonaplay/playlist.m3u8?PlaylistM3UCL
+https://5eaccbab48461.streamlock.net:1936/8140/8140/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Asv094P.jpg" group-title="Musicales", Classic Arts Showcase | US
 https://d3s1xaoyhrialn.cloudfront.net/CAS/index_720p30.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JQaZblm.jpg" group-title="Musicales", Classical Harmony | FR
-https://alchimie-classical-harmony-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aWRjN6B.png" group-title="Musicales", Deutsches Musik Fernsehen | DE
-https://tv.artcom-venture.de/dmf/tv_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XMWvZ36.jpg" group-title="Musicales",Kronehit | AT
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1228000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WlvnKlk.png" group-title="Musicales", Oldies Hits | CR
-https://inliveserver.com:1936/15010/15010/chunklist_w2081654420.m3u8
+https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bHEv9Q4.jpg" group-title="Musicales", TV Éxitos | DO
 https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iAyjLaA.png" group-title="Musicales", Hits 360° | DO
-http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wQMPQPK.png" group-title="Musicales", Visión TV | PE
-https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t5x4qH1.png" group-title="Musicales", Telemúsica | AR
-https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5tjT0uF.png" group-title="Musicales", Video Rola | MX
-https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NcyIsLR.png" group-title="Musicales", Sexy K-POP | BR
-https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+https://canal.mediaserver.com.co/live/telemusica.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SPg5HX9/o2.png" group-title="Musicales", Oxígeno  TV | VE
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MT3GQ6i.png" group-title="Musicales", Latido Music | CO
-https://vidaprimo-distroscale.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T1w7dSu.png" group-title="Musicales", Ranchenato TV | CO
-https://byecableiptv.com/ranchenato/ranchenato.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EpEVoUX.png" group-title="Musicales", Cadena Elite | ES
 https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1LjGLmn.png" group-title="Musicales", Mola TV | ES
 http://ventdelnord.tv:8080/mola/directe.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v2PxII1.jpg" group-title="Musicales", Xtra TV | ES
-https://mccdn-hls-a01-rbx.datah0stn3t.com/live/xtra/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0gcUmss.png" group-title="Musicales", La Mega Mundial | US
-http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nm3N3aw.png" group-title="Musicales", Bluegrass 4U| US
-https://59d39900ebfb8.streamlock.net/blugrassmusic/blugrassmusic/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BhTwKWh.png" group-title="Musicales", California Music Channel | US
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
-#EXTINF:-421 tvg-logo="https://i.postimg.cc/KYsYgmnH/cmc.png" group-title="Musicales", CMC
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
+https://server40.servistreaming.com:3477/live/lamegamundiallive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BhTwKWh.png" group-title="Musicales", CMC | US
+https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9TbpsS0.png" group-title="Musicales", CMC-USA | US
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QJsJtyA.png" group-title="Musicales", DSTV| US
-https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TQtKvf5.jpg" group-title="Musicales", Sunburn TV | US
-https://vcndstv.teleosmedia.com/stream/dstv/sunburn/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aL4DvbN.png" group-title="Musicales", Country Music 4U | US
-https://59d39900ebfb8.streamlock.net/countrymusic4u/countrymusic4u/playlist.m3u8
+https://mediaplatform.streamingmediahosting.com/p/14215/sp/1421500/playManifest/entryId/0_obd393sh/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xV82cmA.png" group-title="Musicales", VH1 | IT
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eurtz6A.png" group-title="Musicales",Euro Indie Music Chart | IT
@@ -1489,47 +1427,29 @@ http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v1kZ75r.png" group-title="Musicales", Zero Uno TV | IT
 https://5db313b643fd8.streamlock.net/ZerounoTV/ZerounoTV/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2KPPaAM.png" group-title="Musicales", Rock TV | RO
-https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/playlist.m3u8
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UEgdZo1.png" group-title="Musicales", Kiss TV | RO
-https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/chunklist_w209236852_b680000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g46c2Ht.png" group-title="Musicales", Music Channel | RO
-https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gx5uhB1.png" group-title="Musicales", 1 Music Channel | HU
-https://1music.hu/1music.m3u8
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131_output_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0fUPxix.png" group-title="Musicales", 4Fun | PL
 https://stream.4fun.tv:8888/hls/4f_med/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RU7jA3I.png" group-title="Musicales", 1Muz | BY
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3Z6GjxM.png" group-title="Musicales", 1Muz | RU
-http://rtmp.one.by:2300/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZHe201.jpg" group-title="Musicales", HITV | RU
-https://rosshow.gcdn.co/streams/1410_287/480n/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KWg9F4c.png" group-title="Musicales", VIVA | RU
-https://hls.myvideocontent.ru/hls2/vivarussia/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SfZZv0f.png" group-title="Musicales", O!2 | RU
-https://strm.yandex.ru/kal/o2/o20_169_720p.json/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v6KNZms.png" group-title="Musicales", Muz Soyuz TV | RU
-http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
+http://hz1.teleport.cc/HLS/SD.m3u8
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/14/d2/93/14d293ef-cdb5-c4cf-fe97-e60528e3c106/source/512x512bb.jpg" group-title="Musicales", Arabica Music | LB
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1LRxlPE.png" group-title="Musicales", Balle Balle | IN
 https://mcncdndigital.com/balleballetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ijfk5IY.png" group-title="Musicales", MH1 Music | IN
-http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
+https://mhonepunjabi.in/hls/0/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bHFmUw1.png" group-title="Musicales", MN TV Music | IN
 http://mntv.livebox.co.in/musichls/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NV6t1kE.png" group-title="Musicales", Public Music | IN
-http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wv8fKAs.png" group-title="Musicales", Steelbird Music | IN
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0jqCYU0.jpg" group-title="Musicales", 7S Music | IN
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1uQZ8d4.png" group-title="Musicales", Desi Channel| CA
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cZKNfUt.png" group-title="Musicales", MV Lao TV | LA
-https://edge6a.v2h-cdn.com/appt7/MVLAO.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dBXPPiF.png" group-title="Musicales", CCTV-15 | CN
-http://ivi.bupt.edu.cn/hls/cctv15.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cC2PnTqN/vevo70s.png" group-title="Pluto TV", Vevo 70's
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868321-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1d158533-4c2c-4f85-8afd-5c0cbcdcb90a&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7LLvj5nd/vevo80s.png" group-title="Pluto TV", Vevo 80's
@@ -1548,30 +1468,12 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d75e84830900098
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868322-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc027a03-e512-45db-98af-879f6889407f&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vHGnRyCf/vevolatino.png" group-title="Pluto TV", Vevo Latino
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a1017b00-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3566ca8c-2173-405a-b3fd-417fe1777274&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PxcdNNz6/stingraymusic.png" group-title="Musicales", Stingray Music Everything 80's
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayclassicrock/CDN/1920x1080_1790800/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PxcdNNz6/stingraymusic.png" group-title="Musicales", Stingray Music Classic Rock
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayclassicrock/CDN/1920x1080_1790800/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PxcdNNz6/stingraymusic.png" group-title="Musicales", Stingray Music Greatest Hits
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraygreatesthits/CDN/768x432_690800/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PxcdNNz6/stingraymusic.png" group-title="Musicales", Stingray Music Hit List
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayhitlist/CDN/768x432_690800/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PxcdNNz6/stingraymusic.png" group-title="Musicales", Stingray Music Hot Country
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayhotcountry/CDN/768x432_690800/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PxcdNNz6/stingraymusic.png" group-title="Musicales", Stingray Music Karaoke
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraykaraoke/CDN/640x360_981200/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PxcdNNz6/stingraymusic.png" group-title="Musicales", Stingray Music Soul Storm
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraysoulstorm/CDN/768x432_690800/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PxcdNNz6/stingraymusic.png" group-title="Musicales", Stingray Music Éxitos del momento
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray2/d7e71382-06c7-4071-bac2-bd7a19510c7f/0.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1XBjtRL/STINGRAY_CONCIERTOS.png" group-title="Pluto TV", Stingray Conciertos
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=25bb1260-ada8-11eb-a3cb-eb027f348c5f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e0734995-d0cf-4ff8-998e-187b9668e54d&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mryXsgPf/KARAOKE.png" group-title="Pluto TV", Stingray Karaoke
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=25bb3970-ada8-11eb-a3cb-eb027f348c5f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5f77d11c-2e1e-44e3-8b82-410880ecd4ab&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvGLLC1b/vh1classics.png" group-title="Pluto TV", VH1 Classic
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=28f910c0-ac73-11eb-b65f-3f0a35700532&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c2ca9adf-1aa0-45dd-bb41-6a8fc0a3f5c9&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SsnFg9KN/lovemusic.png" group-title="Pluto TV", MTV Love Music
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ae79fa46e17000794e84c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44b7434-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a7e1dc13-cad3-45a3-914b-99d1ae366e78&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SN46yCYX/mtvyo.png" group-title="Pluto TV", MTV Yo!
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7e45c2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dfeb1d80-be28-4be3-b669-23fa79a8aec7&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13Jc7Xt8/biggestpop.png" group-title="Pluto TV", MTV Biggest Pop
