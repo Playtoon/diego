@@ -1027,8 +1027,6 @@ https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master_4.m3u8
 https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-logo="https://i.imgur.com/zIMRPHL.png" group-title="Cine y Series", Horrorfy | MX
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2022/10/SaberMas_cover_FastChannel_1920x1080-752x423.jpg" group-title="Cine y Series", Saber Más | MX
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/4ff782d1-cb34-4ff6-8b33-c0340f80b45d/5.m3u8
 #EXTINF:-71 tvg-logo="https://i.postimg.cc/fbgSGDJt/PARAMOUNT.png" group-title="Pluto TV", Paramount+ Presenta
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600728952b1776000776526d/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=c9e73ae3-bf04-4f52-a57d-c955d6cbef86&clientModelNumber=na&deviceDNT=false&deviceId=c9e73ae3-bf04-4f52-a57d-c955d6cbef86&deviceLat=-34.6011&deviceLon=-58.3847&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=89.0.4389.90&marketingRegion=VE&serverSideAds=true&sessionID=aec89e2d-8415-11eb-850e-0242ac110002&sid=aec89e2d-8415-11eb-850e-0242ac110002&userId=
 
@@ -1256,7 +1254,7 @@ https://5975e06a1f292.streamlock.net:4443/utntv/utntv/playlist.m3u8?PlaylistM3UC
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---TUM.png" group-title="Cultural y Educativos", TUM TV | AR
 http://192.100.186.53:8090/hls/live.stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d02366Hc/xamatv.png" group-title="Cultural y Educativos", XAMA TV | AR
-https://sc1.stweb.tv/unisanjuan/live/playlist.m3u8
+https://srs.unsj.edu.ar/live/xama/xama.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-UNQTV.png" group-title="Cultural y Educativos", UNQtv | AR
 https://ythls.onrender.com/channel/UCDGRQwIsI-kOCwdUn4UFjSQ.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/248_Uni_Teve.png" group-title="Cultural y Educativos", Uni Teve | AR
@@ -1273,12 +1271,10 @@ https://panel.dattalive.com:443/8138/8138/playlist.m3u8
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1507_Chilevisual_Cultura.png" group-title="Cultural y Educativos", Chilevisual Cultura | CL
 https://stmv5.voxtvhd.com.br/chilevisualcultura/chilevisualcultura/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/984_Detras_de_la_Razon.png" group-title="Cultural y Educativos", Detras de la Razon | CL
-https://videostreaming.cloudserverlatam.com:443/detrazdelarazon/detrazdelarazon/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/999_38TV.png" group-title="Cultural y Educativos", 38TV | CL
 https://v1.tustreaming.cl:19360/38tv/38tv.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9K9lQl6.jpg" group-title="Cultural y Educativos", STGO.TV | CL
-https://stv.janus.cl/playlist/stream.m3u8?PlaylistM3UCL
+https://stv4.janus.cl/playlist/stream.m3u8?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IZmyR1B.png" group-title="Cultural y Educativos", U Los Lagos | CL
 http://tv.ulagos.cl/web/live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/plK8GKK.jpg" group-title="Cultural y Educativos", UMAG TV | CL
@@ -1288,27 +1284,23 @@ https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3eb0Hhn.png" group-title="Cultural y Educativos", UCV | CL
 https://unlimited10-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fxlQ1we.png" group-title="Cultural y Educativos", UES TV | CL
-http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
+https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ENiyuA1.png" group-title="Cultural y Educativos", Ceac TV | CL
 https://hd.chileservidores.cl:1936/ceactv/ceactv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fwboImE.png" group-title="Cultural y Educativos", T31 Prime | CL
 https://v2.tustreaming.cl/tendenciastv/live1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I8DXpfo.png" group-title="Cultural y Educativos", TV Elqui | CL
-https://593b04c4c5670.streamlock.net/8116/8116/playlist.m3u8
+https://paneltv.online:1936/8160/8160/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PSDKboh.png" group-title="Cultural y Educativos", TV Salud | CL
-https://srv3.zcast.com.br/mastermedia/mastermedia/playlist.m3u8
+https://panel.miplay.cl:8081/tvsalud/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J5RzXtn.png" group-title="Cultural y Educativos", Campus TV | CL
 https://unlimited6-cl.dps.live/campustv/campustv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vpb5j5X.jpg" group-title="Cultural y Educativos", Tec TV | CL
-http://190.107.176.55:1935/live/tec-tv/chunklist_w1739184121.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qpnkBzN.png" group-title="Cultural y Educativos", UATV | CL
-https://unlimited1-us.dps.live/uatv/uatv.smil/uatv/livestream1/chunks.m3u8?nimblesessionid=91396754
+https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/otpcChp.png" group-title="Cultural y Educativos", UCT TV | CL
-https://unlimited1-cl-movistar.dps.live/uct/uct.smil/playlist.m3u8
+https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LAIm1lB.png" group-title="Cultural y Educativos", Ufrovision | CL
 http://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O9hpFKL.png" group-title="Cultural y Educativos", Ekiztv | CL
-https://stmv.panel.mivideo.pro/ekiztv/ekiztv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/798_Cultura_Online.png" group-title="Cultural y Educativos", Cultura Online | CL
 https://v1.tustreaming.cl:19360/culturaonline/culturaonline.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HjBqieO.png" group-title="Cultural y Educativos", Chile Channel | CL
@@ -1317,18 +1309,14 @@ https://v2.tustreaming.cl/chilechannel/index.m3u8
 https://v4.tustreaming.cl/tevexinter/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l1zzq8S.png" group-title="Cultural y Educativos", CI TV | CO
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IwgR9ZB.png" group-title="Cultural y Educativos", UAO Play Cali | CO
-https://live-edge-ams-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC023/live-2500/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UXOCBDS.png" group-title="Cultural y Educativos", Campus TV | HN
-http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
+https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8ED2nTR.png" group-title="Cultural y Educativos", CGTN | JP
 https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X4x2OkO.png" group-title="Cultural y Educativos", Cep Cadena 4 | MX
-https://mdstrm.com/live-stream-playlist/5cfe8974ef9acc25607a7dec.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/655_TV4_Cultura.png" group-title="Cultural y Educativos", TV4 Cultura | MX
 https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7rEbKUr.png" group-title="Cultural y Educativos", Turistik TV | MX
-https://5fa5de1a545ae.streamlock.net/turistik/turistik/.m3u8
+https://5fa5de1a545ae.streamlock.net/8030/8030/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dST6WNx.png" group-title="Cultural y Educativos", Cultura 24 TV | PE
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nomlIR3.png" group-title="Pluto TV", Animales
@@ -1345,14 +1333,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd8364ea
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=&appName=web&appVersion=5.7.1-a6476e5c6aae81513d57183396914e3b74493662&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8836&deviceLon=-68.8141&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=16348462-ede5-11ea-ae94-0242ac110002&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvfrPpZL/sabermas.png" group-title="Cultural y Educativos", Saber Más
 https://sabermas-plex.amagi.tv/SaberMas-xumo/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/q7bRmtJL/lovenature.png" group-title="Cultural y Educativos", Love Nature
-https://bamus-spa-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZctBcrG/LOUPE.png" group-title="Pluto TV", Loupe
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600b248969c6580007e91a2d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b24c9db0-8dd8-11eb-83c3-1ff76e6e06e9&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7a6e25a5-cd97-4493-beb5-5001da599dd1&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZctBcrG/LOUPE.png" group-title="Pluto TV", Loupe 2
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc38adbc38100073511f2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=98a3fd62-8e3f-11eb-9619-637dcb8e0f08&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a35b3c8a-7da4-45c8-99f2-06811ca4c06d&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZctBcrG/LOUPE.png" group-title="Pluto TV", Loupe 3
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f0cb39b4ae1f80007bad585/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc98e9f5-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=99bbe6a5-becc-4f1b-8af9-bb8f6923faf9&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P5H0sYP5/VIAJES.png" group-title="Pluto TV", Pluto TV Viajes
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff00071-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ef6ea5a4-5004-451b-bbdc-9dd3d9cc8614&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g2Qsb6zT/mundoviajero.png" group-title="Pluto TV", Mundo Viajero
