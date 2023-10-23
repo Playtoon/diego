@@ -1284,8 +1284,6 @@ http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jKBffVl.png" group-title="Musicales", Melody Channel | CO
 https://canal.mediaserver.com.co/live/MelodyChannel.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/3cc1950b0f0c4ad15752bd5b6646fdf6.png" group-title="Musicales", 38TV | CR
-https://v2.tustreaming.cl:19360/38tv/38tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UQqkcJX.png" group-title="Musicales", Retro music TV | CZ
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UQqkcJX.png" group-title="Musicales", Retro music TV HD | CZ
@@ -1300,8 +1298,6 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w28804817
 https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="Musicales", Retro Plus Music 2 | CL
 https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pFpolwD.png" group-title="Musicales", Teleritmo | MX 
-https://us-b4-p-e-mg17.cdn.mdstrm.com/live-stream/57b4dc126338448314449d0c/publish/media_2000.m3u8?aid=579bd29dc99290cf08362c3b&uid=EnYginwD7LYYyw2SzbZessThyVT6KbbP&sid=wJR6n3LMRBrSAOhM3OzmzsIR7Dhof3wU&pid=haETrdKrdTJJ6TfXTq7R50wK2cxs6gcE&ref=https%3A%2F%2Fwww.multimedios.com%2F&without_cookies=false&listenerid=&dnt=true&es=us-b4-p-e-mg17.cdn.mdstrm.com&ote=1697650050369&ot=mlXDXQDxoPW6aye8kba0Pg&proto=https&pz=us
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fEWQwu7.png" group-title="Musicales" ,Top Latino TV | PE
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dittytv.com/wp-content/uploads/2021/01/DittyTV.Logo_.Main_.2021.jpg" group-title="Musicales", Ditty TV | US
@@ -1343,7 +1339,7 @@ https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1LjGLmn.png" group-title="Musicales", Mola TV | ES
 http://ventdelnord.tv:8080/mola/directe.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0gcUmss.png" group-title="Musicales", La Mega Mundial | US
-https://server40.servistreaming.com:3477/live/lamegamundiallive.m3u8
+https://server40.servistreaming.com:3477/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BhTwKWh.png" group-title="Musicales", CMC | US
 https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9TbpsS0.png" group-title="Musicales", CMC-USA | US
