@@ -1472,8 +1472,8 @@ https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/.m3u8
 
 - VIDEO RADIOS -
 
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIVORTER.png" group-title="Video Radios",Vorterix - 92.1 TV | AR
-http://ythlsgo.onrender.com/video/ctZdo7emFEU.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIVORTER.png" group-title="Video Radios", Vorterix - 92.1 TV | AR
+https://ythlsgo.onrender.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/795_Metropolitana_FM.png" group-title="Video Radios", Metropolitana FM | AR
 https://panel.dattalive.com/MetropolitanaFM/MetropolitanaFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/215_Azahares_Radio_Multimedia.png" group-title="Video Radios", Azahares Radio Multimedia | AR
