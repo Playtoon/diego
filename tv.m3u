@@ -1251,7 +1251,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009
 #EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/infobae/V5GVJDWHJVEN7O3IB22SJWBKTE.jpg" group-title="Deportes", FOX Sports/ESPN Premium | AR
 https://panel.dattalive.com/8026/8026/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tntsports.com.ar/__export/1610632432438/sites/tntsports/arte/apps/twitter_summary_card_20210114.jpg" group-title="Deportes", TNT Sports | AR
-https://panel.dattalive.com/8194/8194/playlist.m3u8
+http://190.102.242.130:25461/66486141/1234/21
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--DXTV.png" group-title="Deportes", DeporTV | AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w2142756940.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cd0hP5e.png" group-title="Deportes", GARAGE TV | AR
