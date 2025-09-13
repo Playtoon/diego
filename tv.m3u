@@ -520,6 +520,8 @@ https://envivo.cncity.live/hls/cncity.m3u8
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Bigchannel.png" group-title="Infantiles", Big TV
 https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Bigchannel.png" group-title="Infantiles", Big TV P
+https://ok.ru/video/8483100434106
 #EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/kanade.png" group-title="Infantiles", Kanade
 https://backend.energeek.cl/webtv/kanadeweb/tracks-v1a1/mono.m3u8?token=deM0kanADeweB
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/6/6d/Loco2006.png" group-title="Infantiles", Locomotion
