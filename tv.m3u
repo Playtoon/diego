@@ -520,6 +520,8 @@ https://envivo.cncity.live/hls/cncity.m3u8
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2c880e_8de5a7cbba4e485785d89c70b75013c4~mv2.png" group-title="Infantiles", Cine 35mm
 https://live20.bozztv.com/akamaissh101/ssh101/bigchannel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2c880e_8de5a7cbba4e485785d89c70b75013c4~mv2.png" group-title="Infantiles", Cine 35mm (opc. 2)
+https://vsd209.okcdn.ru/hls/7155625626298.m3u8/sig/iXSGeHPJDOk/expires/1761353809843/srcIp/186.182.88.164/urls/185.226.52.84/clientType/0/srcAg/CHROME/mid/8483100434106/7155625626298_high/index.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/kanade.png" group-title="Infantiles", Kanade
 https://backend.energeek.cl/webtv/kanadeweb/tracks-v1a1/mono.m3u8?token=deM0kanADeweB
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/6/6d/Loco2006.png" group-title="Infantiles", Locomotion
