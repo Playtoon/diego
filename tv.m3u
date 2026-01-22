@@ -518,10 +518,12 @@ http://185.189.225.150:85/nickelodeon/index.m3u8
 https://envivo.cncity.live/hls/cncity.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TvH9gvB/Logo-Pitufo-TV.png" group-title="Infantiles", Los Pitufos TV
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2c880e_8de5a7cbba4e485785d89c70b75013c4~mv2.png" group-title="Infantiles", Cine 35mm
-https://live20.bozztv.com/giatv/giatv-live35mm/live35mm/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2c880e_8de5a7cbba4e485785d89c70b75013c4~mv2.png" group-title="Infantiles", Cine 35mm (opc. 2)
-https://live20.bozztv.com/akamaissh101/ssh101/bigchannel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T2JtbQVJ/dragonb.jpg" group-title="Infantiles",GOKU TV
+https://live20.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtJFXNYP/simpsons-1.jpg" group-title="Infantiles",LOS SIMPSON OP1
+https://live20.bozztv.com/akamaissh101/ssh101/simgit/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y2sCqVP/simpsons-4.jpg" group-title="Infantiles",LOS SIPMSON OPC2
+https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/kanade.png" group-title="Infantiles", Kanade
 https://backend.energeek.cl/webtv/kanadeweb/tracks-v1a1/mono.m3u8?token=deM0kanADeweB
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/6/6d/Loco2006.png" group-title="Infantiles", Locomotion
@@ -671,6 +673,14 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dc59026b9b00076
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a109df70-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=702cfffa-9f1d-4a32-86b2-fac554cec889&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pdgPjk2J/nosotras.png" group-title="Pluto TV", Entre Nosotras
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492c67f4c48700075b5d37/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a120e9e0-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a6154e7b-2129-4d9d-8cda-6b75cd73e6c8&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2Sxm6ygv/cys.jpg" group-title="Novelas",A3S MEDIA INTERNACIONAL
+https://atresmedia-ceries-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9Dtc1Y8/cinema-az2.jpg" group-title="Novelas",CINEMA 
+https://atresmedia-ceries-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjs5f1nb/az-corazon.jpg" group-title="Novelas",AZ CORAZON
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqMKnJFz/azint.jpg" group-title="Novelas",AZTECA INTERNACIONAL 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4828
 
 - CINE Y SERIES -
 
@@ -742,10 +752,26 @@ https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-NEOTV.png" group-title="Cine y Series", NEO TV Digital | AR
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6ed41526c77000941411c/featuredImage_1761061283781.jpg" group-title="Cine y Series", Cine Navidad
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5dd6ed41526c77000941411c/3321280/playlist.m3u8?sid=5d230f6e-d772-11f0-a46a-5206cd3c2288&deviceId=e4a33275-8327-4ac5-aa44-a7f83f92d4a9&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImE4NzA0Mjk2LWE4ZjctNDc1Ni1iNTY0LWE5ZjkyNzk1ZWY2MCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI1ZDIzMGY2ZS1kNzcyLTExZjAtYTQ2YS01MjA2Y2QzYzIyODgiLCJjbGllbnRJUCI6IjE4Ni4xODIuODguMTc3IiwiY2l0eSI6IlNhbiBTYWx2YWRvciBEZSBKdWp1eSIsInBvc3RhbENvZGUiOiJ5NDYwNyBlYWIiLCJjb3VudHJ5IjoiQVIiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IlZFIiwiZGV2aWNlTGF0IjotMjQuMjE5OTk5MzEzMzU0NDkyLCJkZXZpY2VMb24iOi02NS4yNjk5OTY2NDMwNjY0LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVzIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxNDUuMC4wIiwiZGV2aWNlTWFrZSI6ImZpcmVmb3giLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiOS4xOC4wLTMyMjk2ZDQ3Yzk4ODI3NTRlMzYwZjFiMjhhMzMwMjdjNTRjYmFkMTYiLCJjbGllbnRJRCI6ImU0YTMzMjc1LTgzMjctNGFjNS1hYTQ0LWE3ZjgzZjkyZDRhOSIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0FyZ2VudGluYS9KdWp1eSIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsibXVsdGlQb2RBZHMiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVySGxzTmdWb2QiOnsiZW5hYmxlZCI6dHJ1ZX19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6ImU0YTMzMjc1LTgzMjctNGFjNS1hYTQ0LWE3ZjgzZjkyZDRhOSIsImZ3VmNJRDJDb3BwYSI6ImU0YTMzMjc1LTgzMjctNGFjNS1hYTQ0LWE3ZjgzZjkyZDRhOSIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiZTRhMzMyNzUtODMyNy00YWM1LWFhNDQtYTdmODNmOTJkNGE5IiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAwMCwxMDAwOSwxMDAxMywxMDAxNCwxMDAxNiwxMDAxNSwxMDAyMCwxMDAyMSJ9fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOlZFOlpUUmhNek15TnpVdE9ETXlOeTAwWVdNMUxXRmhORFF0WVRkbU9ETm1PVEprTkdFNSIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3NjU2NDEwNjMsImlhdCI6MTc2NTU1NDY2MywianRpIjoiMTIzMWUwNzgtMzM1Zi00ZDk0LWJkMDMtODU5YWMxNjM1OTZjIn0.BgTGzEnscmUJovHak3U_Az-9VE5J0WXo5yKyov8wdVM&CMCD=mtp%3D62900%2Cot%3Dm%2Csf%3Dh%2Csid%3D%2276b76ce1-64c1-4499-b46b-e7cae193be88%22
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1320_TV_Prime_Peliculas.png" group-title="Cine y Series", Vibra TV Peliculas | CL
-https://vdo.paneldalestream.com:3786/live/tvprimelive.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yJqTs4r/oli.jpg" group-title="Cine y Series",OLI 
+https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pjsGq3RM/in35.png" group-title="Cine y Series",Cine35mm
+https://live20.bozztv.com/giatv/giatv-live35mm/live35mm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pjsGq3RM/in35.png" group-title="Cine y Series",CINE35mm Opc2
+https://live20.bozztv.com/akamaissh101/ssh101/bigchannel/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1t7Nbtkt/inbig-tvvv.png" group-title="Cine y Series",BIG TV
+https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8zwzVRCz/cinema1.jpg" group-title="Cine y Series",CINEMA
+http://200.115.120.1:8000/play/ca038/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T24jJ21K/crom.jpg" group-title="Cine y Series",CROM TV
+https://cnn.essastream.com:3333/live/cromtvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnTw5tfk/fmh-family.jpg" group-title="Cine y Series",FMH FAMILY
+http://45.173.201.51:4000/play/a01b/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dz4tWV7h/fmh-kids.jpg" group-title="Cine y Series",FMH KIDS
+http://45.173.201.51:4000/play/a01c/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZ9ZbpCH/fmh-m.jpg" group-title="Cine y Series",FMH MOVIE
+http://45.173.201.51:4000/play/a01a/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRWWKryt/wowc.jpg" group-title="Cine y Series",WOW  MOVIES
+https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.m3u.cl/logo/1435__Cine.png" group-title="Cine y Series", +Cine | CL
 https://tv.arkeo.cl:19360/8128/8128.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/800px-AMC_logo_2019.svg.png" group-title="Cine y Series", Amc
@@ -983,55 +1009,6 @@ http://190.102.242.130:25461/66486141/1234/87
 http://190.102.242.130:25461/66486141/1234/90
 #EXTINF:-1 tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/food-network-logo-black-and-white.png" group-title="Especiales y Documentales", Food Network
 http://190.102.242.130:25461/66486141/1234/86
-
-- ADULTOS -
-
-#EXTINF:-1 tvg-id="Películas y Series" tvg-logo="https://i2.paste.pics/df22d687408ccf03759a5b0ead7d9b72.png" group-title="Adultos", Miami TV | MX
-https://59ec5453559f0.streamlock.net/Latino/smil:WEB/playlist.m3u8?WebM3UCL
-#EXTINF:-1 tvg-id="917" tvg-name="Russian" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png" group-title="Adultos", Russian | US
-https://live.adultiptv.net/russian.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="918" tvg-name="Pornstar" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png" group-title="Adultos", Pornstar | US
-https://live.adultiptv.net/pornstar.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="919" tvg-name="MILF" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png" group-title="Adultos", MILF | US
-https://live.adultiptv.net/milf.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="920" tvg-name="Hardcore" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png" group-title="Adultos", Hardcore | US
-https://live.adultiptv.net/hardcore.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="921" tvg-name="Fetish" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png" group-title="Adultos", Fetish | US
-https://live.adultiptv.net/fetish.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="922" tvg-name="Compilation" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png" group-title="Adultos", Compilation | US
-https://live.adultiptv.net/compilation.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="923" tvg-name="Big Tits" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png" group-title="Adultos", Big Tits | US
-https://live.adultiptv.net/bigtits.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="930" tvg-name="Big Dick" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png" group-title="Adultos", Big Dick | US
-https://live.adultiptv.net/bigdick.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="931" tvg-name="Big Ass" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png" group-title="Adultos", Big Ass | US
-https://live.adultiptv.net/bigass.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="932" tvg-name="Anal" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png" group-title="Adultos", Anal | US
-https://live.adultiptv.net/anal.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="933" tvg-name="Teen" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png" group-title="Adultos", Teen | US
-https://live.adultiptv.net/teen.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="934" tvg-name="Latina" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png" group-title="Adultos", Latina | US
-https://live.adultiptv.net/latina.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="935" tvg-name="Blonde" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png" group-title="Adultos", Blonde | US
-https://live.adultiptv.net/blonde.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="936" tvg-name="Brunette" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png" group-title="Adultos", Brunette | US
-https://live.adultiptv.net/brunette.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="937" tvg-name="Interracial" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png" group-title="Adultos", Interracial | US
-https://live.adultiptv.net/interracial.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="938" tvg-name="POV" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png" group-title="Adultos", POV | US
-https://live.adultiptv.net/pov.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="939" tvg-name="Blowjob" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png" group-title="Adultos", Blowjob | US
-https://live.adultiptv.net/blowjob.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="940" tvg-name="Threesome" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png" group-title="Adultos", Threesome | US
-https://live.adultiptv.net/threesome.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="941" tvg-name="Rough" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png" group-title="Adultos", Rough | US
-https://live.adultiptv.net/rough.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="942" tvg-name="Gangbang" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png" group-title="Adultos", Gangbang | US
-https://live.adultiptv.net/gangbang.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="943" tvg-name="Live Cams" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png" group-title="Adultos", Live Cams | US
-https://live.adultiptv.net/livecams.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="944" tvg-name="Cuckold" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png" group-title="Adultos", Cuckold | US
-https://live.adultiptv.net/cuckold.m3u8?PlaylistM3UCL
 
 - HISTORIAS Y REALITIES -
 
